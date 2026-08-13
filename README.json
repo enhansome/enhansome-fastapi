@@ -19,7 +19,7 @@
             "last_commit": "2025-04-05T06:11:16Z",
             "owner": "fastapi-admin",
             "repo": "fastapi-admin",
-            "stars": 3811
+            "stars": 3812
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-10T22:27:19Z",
             "owner": "yezz123",
             "repo": "authx",
-            "stars": 1194
+            "stars": 1196
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-07-02T10:54:21Z",
             "owner": "vibber-ai",
             "repo": "fastapi-azure-auth",
-            "stars": 677
+            "stars": 678
           }
         },
         {
@@ -405,7 +405,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:27:00Z",
+            "last_commit": "2026-08-13T14:47:32Z",
             "owner": "dymmond",
             "repo": "edgy",
             "stars": 437
@@ -795,7 +795,7 @@
             "last_commit": "2026-08-04T01:09:49Z",
             "owner": "laurentS",
             "repo": "slowapi",
-            "stars": 2044
+            "stars": 2045
           }
         },
         {
@@ -837,7 +837,7 @@
             "last_commit": "2026-06-21T04:03:28Z",
             "owner": "benavlabs",
             "repo": "fastcrud",
-            "stars": 1546
+            "stars": 1552
           }
         },
         {
@@ -1282,7 +1282,7 @@
             "last_commit": "2026-05-03T18:11:59Z",
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 17888
+            "stars": 17890
           }
         },
         {
@@ -1374,7 +1374,7 @@
             "last_commit": "2026-08-12T09:25:44Z",
             "owner": "fastapi",
             "repo": "full-stack-fastapi-template",
-            "stars": 44815
+            "stars": 44832
           }
         },
         {
@@ -1486,7 +1486,7 @@
             "last_commit": "2022-11-28T19:10:04Z",
             "owner": "microsoft",
             "repo": "cookiecutter-spacy-fastapi",
-            "stars": 617
+            "stars": 616
           }
         },
         {
@@ -1691,10 +1691,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T23:21:13Z",
+            "last_commit": "2026-08-13T15:15:51Z",
             "owner": "polarsource",
             "repo": "polar",
-            "stars": 10182
+            "stars": 10186
           }
         },
         {
@@ -1778,7 +1778,7 @@
             "last_commit": "2026-08-10T13:36:10Z",
             "owner": "bitcart",
             "repo": "bitcart",
-            "stars": 970
+            "stars": 972
           }
         },
         {
@@ -1971,7 +1971,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T13:35:36Z",
+            "last_commit": "2026-08-13T09:56:23Z",
             "owner": "rclement",
             "repo": "mailer",
             "stars": 147
@@ -2092,7 +2092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:17:23.794Z",
+    "last_updated": "2026-08-13T15:27:33.399Z",
     "original_repository": "mjhea0/awesome-fastapi",
     "original_repository_sha": "9a4d2f01ab0c298e55a276618596dbbab0c2a33b",
     "enhanced_repository": "enhansome/enhansome-fastapi",
