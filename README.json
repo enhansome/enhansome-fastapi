@@ -494,7 +494,7 @@
                         "archived": false,
                         "id": 262825230,
                         "language": "Python",
-                        "last_commit": "2026-08-10T15:28:30Z",
+                        "last_commit": "2026-08-19T14:00:17Z",
                         "owner": "tortoise",
                         "repo": "aerich",
                         "stars": 1083
@@ -1377,7 +1377,7 @@
                 "last_commit": "2026-05-03T18:11:59Z",
                 "owner": "zhanymkanov",
                 "repo": "fastapi-best-practices",
-                "stars": 17923
+                "stars": 17925
               }
             },
             {
@@ -1435,7 +1435,7 @@
                 "last_commit": "2026-08-12T15:03:00Z",
                 "owner": "aws",
                 "repo": "chalice",
-                "stars": 11062
+                "stars": 11061
               }
             },
             {
@@ -1538,7 +1538,7 @@
                 "last_commit": "2023-10-06T23:46:17Z",
                 "owner": "Buuntu",
                 "repo": "fastapi-react",
-                "stars": 2584
+                "stars": 2585
               }
             },
             {
@@ -1849,7 +1849,7 @@
                 "archived": false,
                 "id": 593558875,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:23:55Z",
+                "last_commit": "2026-08-19T14:57:26Z",
                 "owner": "polarsource",
                 "repo": "polar",
                 "stars": 10200
@@ -2277,7 +2277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:26:36.854Z",
+    "last_updated": "2026-08-19T14:58:19.601Z",
     "original_repository": "mjhea0/awesome-fastapi",
     "original_repository_id": 260928305,
     "original_repository_sha": "9a4d2f01ab0c298e55a276618596dbbab0c2a33b",
