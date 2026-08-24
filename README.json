@@ -1421,7 +1421,7 @@
                 "last_commit": "2026-08-19T08:58:11Z",
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101813
+                "stars": 101815
               }
             }
           ],
@@ -1596,7 +1596,7 @@
                 "last_commit": "2026-08-21T19:41:30Z",
                 "owner": "fastapi",
                 "repo": "full-stack-fastapi-template",
-                "stars": 45078
+                "stars": 45094
               }
             },
             {
@@ -2365,7 +2365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:50:58.578Z",
+    "last_updated": "2026-08-24T15:05:43.926Z",
     "original_repository": "mjhea0/awesome-fastapi",
     "original_repository_id": 260928305,
     "original_repository_sha": "9a4d2f01ab0c298e55a276618596dbbab0c2a33b",
