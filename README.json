@@ -17,7 +17,7 @@
                 "last_commit": "2025-04-05T06:11:16Z",
                 "owner": "fastapi-admin",
                 "repo": "fastapi-admin",
-                "stars": 3816
+                "stars": 3817
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-06T08:50:39Z",
                 "owner": "smithyhq",
                 "repo": "sqladmin",
-                "stars": 2814
+                "stars": 2815
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-21T08:49:00Z",
                 "owner": "jowilf",
                 "repo": "starlette-admin",
-                "stars": 1017
+                "stars": 1016
               }
             },
             {
@@ -111,7 +111,7 @@
                 "archived": false,
                 "id": 399171157,
                 "language": "Python",
-                "last_commit": "2026-08-21T16:16:46Z",
+                "last_commit": "2026-08-24T04:49:18Z",
                 "owner": "yezz123",
                 "repo": "authx",
                 "stars": 1197
@@ -474,7 +474,7 @@
                     "archived": false,
                     "id": 820593126,
                     "language": "Python",
-                    "last_commit": "2026-08-17T08:55:56Z",
+                    "last_commit": "2026-08-24T08:56:51Z",
                     "owner": "hadrien",
                     "repo": "FastSQLA",
                     "stars": 83
@@ -494,10 +494,10 @@
                         "archived": false,
                         "id": 262825230,
                         "language": "Python",
-                        "last_commit": "2026-08-19T14:00:17Z",
+                        "last_commit": "2026-08-23T15:57:48Z",
                         "owner": "tortoise",
                         "repo": "aerich",
-                        "stars": 1083
+                        "stars": 1084
                       }
                     }
                   ]
@@ -570,7 +570,7 @@
                     "archived": false,
                     "id": 3626679,
                     "language": "Python",
-                    "last_commit": "2026-08-23T14:22:27Z",
+                    "last_commit": "2026-08-24T09:42:30Z",
                     "owner": "MongoEngine",
                     "repo": "mongoengine",
                     "stars": 4348
@@ -610,6 +610,28 @@
               "description": null,
               "node_type": "group",
               "title": "ODMs"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Pydantic-SQLAlchemy",
+                  "description": "Convert SQLAlchemy models to Pydantic models.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 260731256,
+                    "language": "Python",
+                    "last_commit": "2026-08-22T03:12:59Z",
+                    "owner": "tiangolo",
+                    "repo": "pydantic-sqlalchemy",
+                    "stars": 1407
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other Tools"
             }
           ],
           "description": null,
@@ -642,7 +664,7 @@
                 "archived": false,
                 "id": 879368249,
                 "language": "Python",
-                "last_commit": "2026-08-22T09:30:33Z",
+                "last_commit": "2026-08-24T12:52:03Z",
                 "owner": "modern-python",
                 "repo": "modern-di",
                 "stars": 62
@@ -814,6 +836,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "FastAPI Mail",
+              "description": "Lightweight mail system for sending emails and attachments (individual and bulk).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236163572,
+                "language": "Python",
+                "last_commit": "2026-08-24T10:53:07Z",
+                "owner": "sabuhish",
+                "repo": "fastapi-mail",
+                "stars": 1010
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Email"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Strawberry GraphQL",
               "description": "Python GraphQL library based on dataclasses.",
               "children": [],
@@ -821,10 +865,10 @@
                 "archived": false,
                 "id": 162690887,
                 "language": "Python",
-                "last_commit": "2026-08-19T19:49:30Z",
+                "last_commit": "2026-08-23T18:05:28Z",
                 "owner": "strawberry-graphql",
                 "repo": "strawberry",
-                "stars": 4704
+                "stars": 4706
               }
             },
             {
@@ -881,7 +925,7 @@
                 "archived": false,
                 "id": 310670921,
                 "language": "Python",
-                "last_commit": "2026-08-18T03:04:30Z",
+                "last_commit": "2026-08-24T03:17:14Z",
                 "owner": "uriyyo",
                 "repo": "fastapi-pagination",
                 "stars": 1679
@@ -899,7 +943,7 @@
                 "last_commit": "2026-06-21T04:03:28Z",
                 "owner": "benavlabs",
                 "repo": "fastcrud",
-                "stars": 1566
+                "stars": 1567
               }
             },
             {
@@ -914,7 +958,7 @@
                 "last_commit": "2026-08-01T05:34:02Z",
                 "owner": "trallnag",
                 "repo": "prometheus-fastapi-instrumentator",
-                "stars": 1482
+                "stars": 1483
               }
             },
             {
@@ -974,7 +1018,7 @@
                 "last_commit": "2026-06-09T15:09:21Z",
                 "owner": "snok",
                 "repo": "asgi-correlation-id",
-                "stars": 641
+                "stars": 642
               }
             },
             {
@@ -1367,6 +1411,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Source Code",
+              "description": "Hosted on GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160919119,
+                "language": "Python",
+                "last_commit": "2026-08-19T08:58:11Z",
+                "owner": "fastapi",
+                "repo": "fastapi",
+                "stars": 101813
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "FastAPI Best Practices",
               "description": "Collection of best practices in a GitHub repo.",
               "children": [],
@@ -1377,7 +1443,7 @@
                 "last_commit": "2026-05-03T18:11:59Z",
                 "owner": "zhanymkanov",
                 "repo": "fastapi-best-practices",
-                "stars": 17942
+                "stars": 17950
               }
             },
             {
@@ -1392,7 +1458,7 @@
                 "last_commit": "2026-06-30T20:08:24Z",
                 "owner": "ivan-borovets",
                 "repo": "fastapi-clean-example",
-                "stars": 584
+                "stars": 585
               }
             },
             {
@@ -1421,6 +1487,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fly",
+              "description": "(tutorial, Deploy from a Git repo)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 683104452,
+                "language": "Python",
+                "last_commit": "2026-02-27T03:32:58Z",
+                "owner": "fly-apps",
+                "repo": "hello-fastapi",
+                "stars": 16
+              }
+            }
+          ],
+          "description": "(Platforms-as-a-Service)",
+          "node_type": "group",
+          "title": "PaaS"
+        },
         {
           "children": [
             {
@@ -1508,7 +1596,7 @@
                 "last_commit": "2026-08-21T19:41:30Z",
                 "owner": "fastapi",
                 "repo": "full-stack-fastapi-template",
-                "stars": 45034
+                "stars": 45078
               }
             },
             {
@@ -1849,10 +1937,10 @@
                 "archived": false,
                 "id": 593558875,
                 "language": "Python",
-                "last_commit": "2026-08-22T08:47:56Z",
+                "last_commit": "2026-08-24T08:09:39Z",
                 "owner": "polarsource",
                 "repo": "polar",
-                "stars": 10209
+                "stars": 10211
               }
             },
             {
@@ -1882,7 +1970,7 @@
                 "last_commit": "2022-08-21T02:23:41Z",
                 "owner": "nsidnev",
                 "repo": "fastapi-realworld-example-app",
-                "stars": 3109
+                "stars": 3110
               }
             },
             {
@@ -1909,7 +1997,7 @@
                 "archived": false,
                 "id": 268461132,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T01:16:48Z",
+                "last_commit": "2026-08-24T01:10:46Z",
                 "owner": "Kludex",
                 "repo": "awesome-fastapi-projects",
                 "stars": 1617
@@ -1939,10 +2027,10 @@
                 "archived": false,
                 "id": 173628650,
                 "language": "Python",
-                "last_commit": "2026-08-17T00:56:03Z",
+                "last_commit": "2026-08-24T01:03:30Z",
                 "owner": "bitcart",
                 "repo": "bitcart",
-                "stars": 977
+                "stars": 979
               }
             },
             {
@@ -2277,7 +2365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:45:09.091Z",
+    "last_updated": "2026-08-24T13:50:58.578Z",
     "original_repository": "mjhea0/awesome-fastapi",
     "original_repository_id": 260928305,
     "original_repository_sha": "9a4d2f01ab0c298e55a276618596dbbab0c2a33b",
