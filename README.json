@@ -17,7 +17,7 @@
                 "last_commit": "2025-04-05T06:11:16Z",
                 "owner": "fastapi-admin",
                 "repo": "fastapi-admin",
-                "stars": 3817
+                "stars": 3818
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-06T08:50:39Z",
                 "owner": "smithyhq",
                 "repo": "sqladmin",
-                "stars": 2815
+                "stars": 2816
               }
             },
             {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 530277810,
                 "language": "Python",
-                "last_commit": "2026-08-21T08:49:00Z",
+                "last_commit": "2026-08-25T02:59:05Z",
                 "owner": "jowilf",
                 "repo": "starlette-admin",
                 "stars": 1016
@@ -78,6 +78,21 @@
                 "owner": "piccolo-orm",
                 "repo": "piccolo_admin",
                 "stars": 468
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FastAdmin",
+              "description": "Easy-to-use admin dashboard for FastAPI (also Flask and Django), inspired by Django Admin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 604944903,
+                "language": "Python",
+                "last_commit": "2026-07-16T09:53:35Z",
+                "owner": "vsdudakov",
+                "repo": "fastadmin",
+                "stars": 325
               }
             }
           ],
@@ -99,7 +114,7 @@
                 "last_commit": "2026-08-17T06:27:01Z",
                 "owner": "fastapi-users",
                 "repo": "fastapi-users",
-                "stars": 6223
+                "stars": 6224
               }
             },
             {
@@ -111,7 +126,7 @@
                 "archived": false,
                 "id": 399171157,
                 "language": "Python",
-                "last_commit": "2026-08-24T04:49:18Z",
+                "last_commit": "2026-08-24T22:23:42Z",
                 "owner": "yezz123",
                 "repo": "authx",
                 "stars": 1197
@@ -298,7 +313,7 @@
                 "archived": false,
                 "id": 838357935,
                 "language": "Python",
-                "last_commit": "2026-08-14T02:34:07Z",
+                "last_commit": "2026-08-25T05:41:23Z",
                 "owner": "rennf93",
                 "repo": "fastapi-guard",
                 "stars": 812
@@ -429,7 +444,7 @@
                     "archived": false,
                     "id": 635408274,
                     "language": "Python",
-                    "last_commit": "2026-08-20T06:29:39Z",
+                    "last_commit": "2026-08-24T15:11:47Z",
                     "owner": "dymmond",
                     "repo": "edgy",
                     "stars": 439
@@ -494,7 +509,7 @@
                         "archived": false,
                         "id": 262825230,
                         "language": "Python",
-                        "last_commit": "2026-08-23T15:57:48Z",
+                        "last_commit": "2026-08-24T17:32:51Z",
                         "owner": "tortoise",
                         "repo": "aerich",
                         "stars": 1084
@@ -585,7 +600,7 @@
                     "archived": false,
                     "id": 341677148,
                     "language": "Python",
-                    "last_commit": "2026-08-23T14:42:18Z",
+                    "last_commit": "2026-08-24T19:58:56Z",
                     "owner": "BeanieODM",
                     "repo": "beanie",
                     "stars": 2693
@@ -865,7 +880,7 @@
                 "archived": false,
                 "id": 162690887,
                 "language": "Python",
-                "last_commit": "2026-08-23T18:05:28Z",
+                "last_commit": "2026-08-24T16:36:36Z",
                 "owner": "strawberry-graphql",
                 "repo": "strawberry",
                 "stars": 4706
@@ -898,7 +913,7 @@
                 "last_commit": "2026-08-19T23:54:20Z",
                 "owner": "laurentS",
                 "repo": "slowapi",
-                "stars": 2050
+                "stars": 2051
               }
             },
             {
@@ -925,7 +940,7 @@
                 "archived": false,
                 "id": 310670921,
                 "language": "Python",
-                "last_commit": "2026-08-24T03:17:14Z",
+                "last_commit": "2026-08-25T03:09:49Z",
                 "owner": "uriyyo",
                 "repo": "fastapi-pagination",
                 "stars": 1679
@@ -970,7 +985,7 @@
                 "archived": false,
                 "id": 220524743,
                 "language": "Python",
-                "last_commit": "2026-08-21T15:01:48Z",
+                "last_commit": "2026-08-24T21:54:42Z",
                 "owner": "open-telemetry",
                 "repo": "opentelemetry-python-contrib",
                 "stars": 1089
@@ -1411,7 +1426,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "fastapi/fastapi",
               "description": "Hosted on GitHub.",
               "children": [],
               "repo_info": {
@@ -1421,7 +1436,7 @@
                 "last_commit": "2026-08-19T08:58:11Z",
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101815
+                "stars": 101825
               }
             }
           ],
@@ -1443,7 +1458,7 @@
                 "last_commit": "2026-05-03T18:11:59Z",
                 "owner": "zhanymkanov",
                 "repo": "fastapi-best-practices",
-                "stars": 17950
+                "stars": 17952
               }
             },
             {
@@ -1596,7 +1611,7 @@
                 "last_commit": "2026-08-21T19:41:30Z",
                 "owner": "fastapi",
                 "repo": "full-stack-fastapi-template",
-                "stars": 45094
+                "stars": 45124
               }
             },
             {
@@ -1611,7 +1626,7 @@
                 "last_commit": "2026-05-05T15:42:08Z",
                 "owner": "s3rius",
                 "repo": "FastAPI-template",
-                "stars": 2820
+                "stars": 2823
               }
             },
             {
@@ -1853,6 +1868,21 @@
                 "repo": "YeomanPywork",
                 "stars": 93
               }
+            },
+            {
+              "node_type": "item",
+              "title": "FastAPI Agent Blueprint",
+              "description": "DDD layered template where generic base classes give async CRUD with no boilerplate, domains self-register on discovery, and pre-commit hooks block cross-layer imports at commit time.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1191447179,
+                "language": "Python",
+                "last_commit": "2026-08-13T06:14:21Z",
+                "owner": "Mr-DooSun",
+                "repo": "fastapi-agent-blueprint",
+                "stars": 23
+              }
             }
           ],
           "description": null,
@@ -1937,10 +1967,10 @@
                 "archived": false,
                 "id": 593558875,
                 "language": "Python",
-                "last_commit": "2026-08-24T08:09:39Z",
+                "last_commit": "2026-08-24T22:06:34Z",
                 "owner": "polarsource",
                 "repo": "polar",
-                "stars": 10211
+                "stars": 10212
               }
             },
             {
@@ -2030,7 +2060,7 @@
                 "last_commit": "2026-08-24T01:03:30Z",
                 "owner": "bitcart",
                 "repo": "bitcart",
-                "stars": 979
+                "stars": 981
               }
             },
             {
@@ -2075,7 +2105,7 @@
                 "last_commit": "2026-08-09T09:12:58Z",
                 "owner": "smagafurov",
                 "repo": "fastapi-jsonrpc",
-                "stars": 423
+                "stars": 424
               }
             },
             {
@@ -2365,10 +2395,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:05:43.926Z",
+    "last_updated": "2026-08-25T05:45:22.332Z",
     "original_repository": "mjhea0/awesome-fastapi",
     "original_repository_id": 260928305,
-    "original_repository_sha": "9a4d2f01ab0c298e55a276618596dbbab0c2a33b",
+    "original_repository_sha": "38e525ea955795e36aa54daf28fd923f72a511b8",
     "enhanced_repository": "enhansome/enhansome-fastapi",
     "enhanced_repository_description": null,
     "title": "Awesome FastAPI | with stars"
