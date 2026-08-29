@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin",
+                "homepage": "https://fastapi-admin-docs.long2ice.io",
                 "id": 253400556,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-05T06:11:16Z",
+                "open_issues": 78,
                 "owner": "fastapi-admin",
                 "repo": "fastapi-admin",
-                "stars": 3819
+                "stars": 3819,
+                "topics": [
+                  "admin",
+                  "admin-dashboard",
+                  "dashboard",
+                  "fastapi",
+                  "fastapi-admin",
+                  "tabler",
+                  "tortoise-orm"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -28,12 +41,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SQLAlchemy Admin for FastAPI and Starlette",
+                "homepage": "https://smithyhq.github.io/sqladmin/",
                 "id": 440814573,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-06T08:50:39Z",
+                "open_issues": 44,
                 "owner": "smithyhq",
                 "repo": "sqladmin",
-                "stars": 2816
+                "stars": 2816,
+                "topics": [
+                  "admin",
+                  "admin-dashboard",
+                  "asgi",
+                  "asyncio",
+                  "fastapi",
+                  "python",
+                  "sqlalchemy",
+                  "starlette",
+                  "web",
+                  "wsgi"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -44,12 +73,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin.",
+                "homepage": "http://docs.amis.work",
                 "id": 448282033,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-15T02:03:44Z",
+                "open_issues": 77,
                 "owner": "amisadmin",
                 "repo": "fastapi-amis-admin",
-                "stars": 1566
+                "stars": 1566,
+                "topics": [
+                  "amis",
+                  "django-admin",
+                  "fastapi",
+                  "fastapi-admin",
+                  "fastapi-amis-admin",
+                  "sqlalchemy",
+                  "sqlmodel",
+                  "starlette"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -60,12 +103,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, beautiful and extensible administrative interface framework for FastApi & Starlette applications",
+                "homepage": "https://jowilf.github.io/starlette-admin/",
                 "id": 530277810,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T02:59:05Z",
+                "open_issues": 1,
                 "owner": "jowilf",
                 "repo": "starlette-admin",
-                "stars": 1021
+                "stars": 1021,
+                "topics": [
+                  "admin",
+                  "admin-dashboard",
+                  "datatables",
+                  "fastapi",
+                  "mongoengine",
+                  "sqlalchemy",
+                  "starlette"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -76,12 +132,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A powerful web admin for your database.",
+                "homepage": "https://piccolo-orm.com/ecosystem/",
                 "id": 193770368,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-19T22:00:19Z",
+                "open_issues": 39,
                 "owner": "piccolo-orm",
                 "repo": "piccolo_admin",
-                "stars": 467
+                "stars": 467,
+                "topics": [
+                  "admin",
+                  "asgi",
+                  "asyncio",
+                  "cms",
+                  "content-management-system",
+                  "dashboard",
+                  "database",
+                  "fastapi",
+                  "hacktoberfest",
+                  "piccolo",
+                  "postgresql",
+                  "python",
+                  "python3",
+                  "sqlite",
+                  "starlette",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -92,12 +170,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy-to-use admin dashboard (admin panel) for FastAPI, Flask and Django, inspired by Django Admin. Works with Tortoise ORM, Django ORM, SQLAlchemy, Pony ORM and Yara ORM.",
+                "homepage": "https://vsdudakov.github.io/fastadmin/",
                 "id": 604944903,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-16T09:53:35Z",
+                "open_issues": 0,
                 "owner": "vsdudakov",
                 "repo": "fastadmin",
-                "stars": 325
+                "stars": 325,
+                "topics": [
+                  "admin",
+                  "admin-dashboard",
+                  "admin-panel",
+                  "crud",
+                  "dashboard",
+                  "django",
+                  "django-admin",
+                  "fastadmin",
+                  "fastapi",
+                  "fastapi-admin",
+                  "flask",
+                  "flask-admin",
+                  "ponyorm",
+                  "python",
+                  "sqlalchemy",
+                  "tortoise-orm",
+                  "yara-orm"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             }
@@ -115,12 +216,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ready-to-use and customizable users management for FastAPI",
+                "homepage": "https://fastapi-users.github.io/fastapi-users/",
                 "id": 213025388,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T06:27:01Z",
+                "open_issues": 10,
                 "owner": "fastapi-users",
                 "repo": "fastapi-users",
-                "stars": 6230
+                "stars": 6231,
+                "topics": [
+                  "async",
+                  "asyncio",
+                  "fastapi",
+                  "fastapi-users",
+                  "python",
+                  "starlette",
+                  "users"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -131,12 +245,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ready-to-use and customizable Authentications and Oauth2 management for FastAPI ✨",
+                "homepage": "https://authx.yezz.me/",
                 "id": 399171157,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T16:52:15Z",
+                "open_issues": 1,
                 "owner": "yezz123",
                 "repo": "authx",
-                "stars": 1197
+                "stars": 1197,
+                "topics": [
+                  "authentification",
+                  "authorization",
+                  "backend",
+                  "fastapi",
+                  "jwt",
+                  "pydantic",
+                  "python",
+                  "starlette"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -147,12 +275,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI extension that provides JWT Auth support (secure, easy to use, and lightweight) ",
+                "homepage": "http://indominusbyte.github.io/fastapi-jwt-auth/",
                 "id": 281911261,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-12T06:58:02Z",
+                "open_issues": 61,
                 "owner": "IndominusByte",
                 "repo": "fastapi-jwt-auth",
-                "stars": 829
+                "stars": 829,
+                "topics": [
+                  "authorization",
+                  "fastapi",
+                  "fastapi-extension",
+                  "fastapi-jwt",
+                  "jwt",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -163,12 +303,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI-Login tries to provide similar functionality as Flask-Login does.",
+                "homepage": "https://pypi.org/project/fastapi-login",
                 "id": 216593146,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-20T07:04:51Z",
+                "open_issues": 1,
                 "owner": "maxrdu",
                 "repo": "fastapi_login",
-                "stars": 819
+                "stars": 819,
+                "topics": [
+                  "fastapi",
+                  "plugin",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -179,12 +328,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy and secure implementation of Azure Entra ID (previously AD) for your FastAPI APIs 🔒 B2C, single- and multi-tenant support.",
+                "homepage": "https://vibber-ai.github.io/fastapi-azure-auth/",
                 "id": 394764603,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-02T10:54:21Z",
+                "open_issues": 3,
                 "owner": "vibber-ai",
                 "repo": "fastapi-azure-auth",
-                "stars": 679
+                "stars": 679,
+                "topics": [
+                  "anyio",
+                  "asgi",
+                  "asyncio",
+                  "authentication",
+                  "azure",
+                  "azure-active-directory",
+                  "azure-ad",
+                  "azuread",
+                  "fastapi",
+                  "oauth2",
+                  "oidc",
+                  "openapi",
+                  "openid",
+                  "openidconnect",
+                  "python",
+                  "security",
+                  "trio"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -195,12 +367,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "row level security for FastAPI framework",
+                "homepage": null,
                 "id": 197850677,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-16T14:40:54Z",
+                "open_issues": 17,
                 "owner": "holgi",
                 "repo": "fastapi-permissions",
-                "stars": 652
+                "stars": 652,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -211,12 +388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Drop-in API-key based security for FastAPI",
+                "homepage": null,
                 "id": 290704924,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-19T20:22:23Z",
+                "open_issues": 1,
                 "owner": "mrtolkien",
                 "repo": "fastapi_simple_security",
-                "stars": 466
+                "stars": 466,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -227,12 +409,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).",
+                "homepage": null,
                 "id": 283286373,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-17T13:14:36Z",
+                "open_issues": 37,
                 "owner": "tokusumi",
                 "repo": "fastapi-cloudauth",
-                "stars": 434
+                "stars": 434,
+                "topics": [
+                  "auth0",
+                  "aws-cognito",
+                  "fastapi",
+                  "fastapi-cloudauth",
+                  "firebase-authentication",
+                  "python",
+                  "verification"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -243,12 +438,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Auth for use with FastAPI",
+                "homepage": null,
                 "id": 228746139,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-14T21:35:21Z",
+                "open_issues": 5,
                 "owner": "dmontagu",
                 "repo": "fastapi-auth",
-                "stars": 270
+                "stars": 270,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -259,12 +459,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Implements authentication and authorization as FastAPI dependencies",
+                "homepage": null,
                 "id": 238951091,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-02T13:24:12Z",
+                "open_issues": 2,
                 "owner": "jacobsvante",
                 "repo": "fastapi-security",
-                "stars": 235
+                "stars": 235,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -275,12 +480,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OAuth2 in FastAPI apps using Zitadel",
+                "homepage": "https://cleanenergyexchange.github.io/fastapi-zitadel-auth/",
                 "id": 887161071,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-09T08:41:31Z",
+                "open_issues": 16,
                 "owner": "cleanenergyexchange",
                 "repo": "fastapi-zitadel-auth",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "asyncio",
+                  "fastapi",
+                  "jwks",
+                  "jwt",
+                  "oauth2",
+                  "oidc",
+                  "zitadel"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -291,12 +509,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI authorization middleware based on PyCasbin",
+                "homepage": "https://github.com/casbin/pycasbin",
                 "id": 887007417,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-19T21:45:18Z",
+                "open_issues": 9,
                 "owner": "apache",
                 "repo": "casbin-python-fastapi-casbin-auth",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "abac",
+                  "acl",
+                  "auth",
+                  "authorization",
+                  "casbin",
+                  "fastapi",
+                  "middleware",
+                  "py",
+                  "pycasbin",
+                  "python",
+                  "pythonweb",
+                  "rbac",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             }
@@ -314,12 +551,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern Python library for HTTP security headers with safe defaults, configurable presets, and first-class ASGI/WSGI middleware (FastAPI, Django, Flask, Shiny, and more).",
+                "homepage": "https://typeerror.com/secure/",
                 "id": 159254159,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-23T00:33:38Z",
+                "open_issues": 9,
                 "owner": "TypeError",
                 "repo": "secure",
-                "stars": 1052
+                "stars": 1052,
+                "topics": [
+                  "asgi",
+                  "content-security-policy",
+                  "django",
+                  "fastapi",
+                  "flask",
+                  "http-headers",
+                  "python",
+                  "security",
+                  "security-headers",
+                  "shiny",
+                  "strict-transport-security",
+                  "web-security",
+                  "wsgi"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -330,12 +586,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A security library for FastAPI that provides middleware to control IPs, log requests, detect penetration attempts, honeypot setup, behavioural analysis, emergency mode lockdown, block Cloud Provider IPs, country blocking, and much more... It integrates seamlessly with FastAPI to offer robust protection against various security threats.",
+                "homepage": "https://guard-core.com/",
                 "id": 838357935,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T03:50:45Z",
+                "open_issues": 1,
                 "owner": "rennf93",
                 "repo": "fastapi-guard",
-                "stars": 813
+                "stars": 813,
+                "topics": [
+                  "api",
+                  "fastapi",
+                  "ip",
+                  "middleware",
+                  "python",
+                  "rest",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             }
@@ -360,24 +629,58 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "High-performance Async REST API, in Python. FastAPI + GINO + Arq + Uvicorn (w/ Redis and PostgreSQL).",
+                        "homepage": null,
                         "id": 193383620,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2022-12-08T10:32:45Z",
+                        "open_issues": 5,
                         "owner": "leosussan",
                         "repo": "fastapi-gino-arq-uvicorn",
-                        "stars": 553
+                        "stars": 553,
+                        "topics": [
+                          "api",
+                          "arq",
+                          "async",
+                          "asyncio",
+                          "fastapi",
+                          "gino",
+                          "openapi3",
+                          "postgresql",
+                          "pydantic",
+                          "python",
+                          "python3",
+                          "rest",
+                          "swagger",
+                          "uvicorn",
+                          "uvloop"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:35:05.072Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": "GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.",
+                    "homepage": "https://python-gino.org/",
                     "id": 97905816,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-02-12T20:35:18Z",
+                    "open_issues": 54,
                     "owner": "python-gino",
                     "repo": "gino",
-                    "stars": 2792
+                    "stars": 2792,
+                    "topics": [
+                      "asyncio",
+                      "asyncpg",
+                      "gino",
+                      "hacktoberfest",
+                      "orm",
+                      "python3",
+                      "sqlalchemy"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
                 },
@@ -393,24 +696,48 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Example projects built using Piccolo.",
+                        "homepage": null,
                         "id": 283859689,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-03-06T16:30:19Z",
+                        "open_issues": 1,
                         "owner": "piccolo-orm",
                         "repo": "piccolo_examples",
-                        "stars": 104
+                        "stars": 104,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:35:05.072Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fast, user friendly ORM and query builder which supports asyncio.",
+                    "homepage": "https://piccolo-orm.com/",
                     "id": 155008334,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-07T20:47:27Z",
+                    "open_issues": 45,
                     "owner": "piccolo-orm",
                     "repo": "piccolo",
-                    "stars": 1936
+                    "stars": 1936,
+                    "topics": [
+                      "asgi",
+                      "asyncio",
+                      "database",
+                      "fastapi",
+                      "hacktoberfest",
+                      "orm",
+                      "piccolo",
+                      "postgresql",
+                      "python",
+                      "python3",
+                      "query-builder",
+                      "sqlite",
+                      "starlette"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
                 },
@@ -421,12 +748,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "An async ORM. 🗃",
+                    "homepage": "https://www.encode.io/orm",
                     "id": 170355229,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2022-08-30T10:12:31Z",
+                    "open_issues": 21,
                     "owner": "encode",
                     "repo": "orm",
-                    "stars": 1858
+                    "stars": 1858,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
                 },
@@ -437,12 +769,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Adds simple SQLAlchemy support to FastAPI",
+                    "homepage": null,
                     "id": 219330762,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-04-09T04:47:10Z",
+                    "open_issues": 20,
                     "owner": "mfreeborn",
                     "repo": "fastapi-sqlalchemy",
-                    "stars": 755
+                    "stars": 755,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
                 },
@@ -453,12 +790,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SQLAlchemy extension for FastAPI with support for pagination, asyncio, SQLModel and pytest, ready for production.",
+                    "homepage": null,
                     "id": 298082175,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T23:05:19Z",
+                    "open_issues": 12,
                     "owner": "dialoguemd",
                     "repo": "fastapi-sqla",
-                    "stars": 449
+                    "stars": 449,
+                    "topics": [
+                      "fastapi",
+                      "fastapi-sqla",
+                      "fastapi-sqlalchemy",
+                      "library",
+                      "sqlalchemy"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
                 },
@@ -469,12 +817,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🔥 The perfect ORM to work with complex databases 🔥",
+                    "homepage": "https://edgy.dymmond.com",
                     "id": 635408274,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-28T23:00:39Z",
+                    "open_issues": 3,
                     "owner": "dymmond",
                     "repo": "edgy",
-                    "stars": 438
+                    "stars": 438,
+                    "topics": [
+                      "anyio",
+                      "asyncio",
+                      "database",
+                      "mysql",
+                      "orm",
+                      "orm-framework",
+                      "orm-model",
+                      "postgres",
+                      "postgresql",
+                      "pydantic",
+                      "python",
+                      "python3",
+                      "sqlite",
+                      "sqlite3",
+                      "sqlserver"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
                 },
@@ -485,12 +854,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The only ORM that you will ever need for python.",
+                    "homepage": "https://saffier.tarsild.io",
                     "id": 602231431,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-14T12:22:27Z",
+                    "open_issues": 0,
                     "owner": "tarsil",
                     "repo": "saffier",
-                    "stars": 147
+                    "stars": 147,
+                    "topics": [
+                      "asyncio",
+                      "database",
+                      "mysql",
+                      "orm",
+                      "orm-framework",
+                      "orm-model",
+                      "postgres",
+                      "postgresql",
+                      "pydantic",
+                      "python",
+                      "python3",
+                      "sqlite",
+                      "sqlite3"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
                 },
@@ -501,12 +889,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FastAPI + PeeWee = <3",
+                    "homepage": null,
                     "id": 355933812,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-07-09T12:37:56Z",
+                    "open_issues": 1,
                     "owner": "Ignisor",
                     "repo": "FastAPIwee",
-                    "stars": 102
+                    "stars": 102,
+                    "topics": [
+                      "fastapi",
+                      "peewee",
+                      "python",
+                      "python3"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
                 },
@@ -517,12 +915,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Async SQLAlchemy 2.0+ extension for FastAPI with SQLModel support, built-in pagination & more",
+                    "homepage": "https://hadrien.github.io/FastSQLA/",
                     "id": 820593126,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T08:56:03Z",
+                    "open_issues": 1,
                     "owner": "hadrien",
                     "repo": "FastSQLA",
-                    "stars": 83
+                    "stars": 83,
+                    "topics": [
+                      "async",
+                      "asyncio",
+                      "fastapi",
+                      "fastapi-sqla",
+                      "fastapi-sqlalchemy",
+                      "pagination",
+                      "python",
+                      "sqlalchemy",
+                      "sqlmodel"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
                 },
@@ -538,12 +951,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A database migrations tool for TortoiseORM, ready to production.",
+                        "homepage": "https://github.com/tortoise/aerich",
                         "id": 262825230,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-08-24T17:32:51Z",
+                        "open_issues": 23,
                         "owner": "tortoise",
                         "repo": "aerich",
-                        "stars": 1083
+                        "stars": 1083,
+                        "topics": [
+                          "database-migrations",
+                          "migration-tool",
+                          "mysql",
+                          "orm",
+                          "postgresql",
+                          "tortoise-orm"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:35:05.072Z"
                     }
@@ -563,12 +988,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Async database support for Python. 🗄",
+                    "homepage": "https://www.encode.io/databases/",
                     "id": 168684254,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-05-21T19:58:17Z",
+                    "open_issues": 131,
                     "owner": "encode",
                     "repo": "databases",
-                    "stars": 3993
+                    "stars": 3993,
+                    "topics": [
+                      "asyncio",
+                      "mysql",
+                      "postgres",
+                      "sqlalchemy",
+                      "sqlite"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
                 },
@@ -579,12 +1015,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially useful for data analysis.",
+                    "homepage": "http://pypika.readthedocs.io/en/latest/",
                     "id": 62725884,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-02-04T11:27:09Z",
+                    "open_issues": 232,
                     "owner": "kayak",
                     "repo": "pypika",
-                    "stars": 2927
+                    "stars": 2927,
+                    "topics": [
+                      "builder",
+                      "data",
+                      "functional",
+                      "python",
+                      "python3",
+                      "pythonic",
+                      "query",
+                      "sql"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
                 },
@@ -595,12 +1045,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A wrapper around asyncpg for use with sqlalchemy",
+                    "homepage": null,
                     "id": 63980116,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-02-17T13:41:22Z",
+                    "open_issues": 15,
                     "owner": "CanopyTax",
                     "repo": "asyncpgsa",
-                    "stars": 506
+                    "stars": 506,
+                    "topics": [
+                      "asyncio",
+                      "postgres",
+                      "python",
+                      "sqlalchemy"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
                 }
@@ -618,12 +1078,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Python Object-Document-Mapper for working with MongoDB",
+                    "homepage": "https://mongoengine-odm.readthedocs.io",
                     "id": 3626679,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T09:42:30Z",
+                    "open_issues": 333,
                     "owner": "MongoEngine",
                     "repo": "mongoengine",
-                    "stars": 4349
+                    "stars": 4349,
+                    "topics": [
+                      "hacktoberfest",
+                      "mongo",
+                      "mongodb",
+                      "mongodb-orm",
+                      "odm",
+                      "orm",
+                      "pymongo",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
                 },
@@ -634,12 +1108,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Asynchronous Python ODM for MongoDB",
+                    "homepage": "http://beanie-odm.dev/",
                     "id": 341677148,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T19:58:56Z",
+                    "open_issues": 79,
                     "owner": "BeanieODM",
                     "repo": "beanie",
-                    "stars": 2694
+                    "stars": 2694,
+                    "topics": [
+                      "async",
+                      "asynchronous",
+                      "asyncio",
+                      "beanie",
+                      "mongo",
+                      "mongodb",
+                      "motor",
+                      "odm",
+                      "orm",
+                      "pydantic",
+                      "pymongo",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
                 },
@@ -650,12 +1142,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A pythonic interface to Amazon's DynamoDB",
+                    "homepage": "http://pynamodb.readthedocs.io",
                     "id": 16058979,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-29T11:20:50Z",
+                    "open_issues": 319,
                     "owner": "pynamodb",
                     "repo": "PynamoDB",
-                    "stars": 2648
+                    "stars": 2648,
+                    "topics": [
+                      "aws",
+                      "dynamodb",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
                 }
@@ -673,12 +1174,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tools to convert SQLAlchemy models to Pydantic models",
+                    "homepage": null,
                     "id": 260731256,
                     "language": "Python",
-                    "last_commit": "2026-08-22T03:12:59Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T03:13:03Z",
+                    "open_issues": 6,
                     "owner": "tiangolo",
                     "repo": "pydantic-sqlalchemy",
-                    "stars": 1407
+                    "stars": 1407,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
                 }
@@ -701,12 +1207,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type-driven dependency injection for Python. Fail-fast validation, lifetimes, native integrations for FastAPI, Flask, Django, and more.",
+                "homepage": "https://maldoinc.github.io/wireup/",
                 "id": 680634709,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:00:09Z",
+                "open_issues": 20,
                 "owner": "maldoinc",
                 "repo": "wireup",
-                "stars": 431
+                "stars": 431,
+                "topics": [
+                  "aiohttp",
+                  "async",
+                  "dependency-injection",
+                  "dependency-injection-container",
+                  "dependency-injection-framework",
+                  "dependency-injector",
+                  "design-pattern",
+                  "di",
+                  "django",
+                  "fastapi",
+                  "flask",
+                  "free-threading",
+                  "ioc-container",
+                  "pep703",
+                  "python",
+                  "service-locator",
+                  "starlette"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -717,12 +1246,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful dependency-injection framework with IoC container and scopes",
+                "homepage": "https://modern-di.modern-python.org",
                 "id": 879368249,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T12:52:03Z",
+                "open_issues": 0,
                 "owner": "modern-python",
                 "repo": "modern-di",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "asyncio",
+                  "dependency-injection",
+                  "di",
+                  "ioc",
+                  "ioc-container",
+                  "mocks",
+                  "modern-di",
+                  "python",
+                  "scopes"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             }
@@ -740,12 +1284,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.    ",
+                "homepage": "https://github.com/ycd/manage-fastapi",
                 "id": 285693274,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-01T21:16:58Z",
+                "open_issues": 22,
                 "owner": "ycd",
                 "repo": "manage-fastapi",
-                "stars": 1908
+                "stars": 1908,
+                "topics": [
+                  "boilerplate",
+                  "cli",
+                  "databases",
+                  "fastapi",
+                  "mongodb",
+                  "mysql",
+                  "postgresql",
+                  "project-generator",
+                  "project-management",
+                  "project-management-tool",
+                  "sqlite",
+                  "tortoise-orm"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -756,12 +1318,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This code generator creates FastAPI app from an openapi file.",
+                "homepage": null,
                 "id": 272182431,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T17:57:56Z",
+                "open_issues": 47,
                 "owner": "koxudaxi",
                 "repo": "fastapi-code-generator",
-                "stars": 1404
+                "stars": 1404,
+                "topics": [
+                  "fastapi",
+                  "generator",
+                  "openapi",
+                  "pydantic",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -772,12 +1345,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "api versioning for fastapi web applications",
+                "homepage": null,
                 "id": 225489725,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-25T14:20:52Z",
+                "open_issues": 37,
                 "owner": "DeanWay",
                 "repo": "fastapi-versioning",
-                "stars": 847
+                "stars": 847,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -788,12 +1366,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Developer productivity tool for making high-quality FastAPI production-ready APIs.",
+                "homepage": "https://fastapi-mvc.github.io/fastapi-mvc/",
                 "id": 389362936,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-11T18:30:29Z",
+                "open_issues": 35,
                 "owner": "fastapi-mvc",
                 "repo": "fastapi-mvc",
-                "stars": 803
+                "stars": 803,
+                "topics": [
+                  "fastapi",
+                  "fastapi-boilerplate",
+                  "fastapi-template",
+                  "helm",
+                  "kubernetes",
+                  "mvc",
+                  "nix",
+                  "project-generator",
+                  "python",
+                  "redis",
+                  "redis-cluster",
+                  "redis-operator"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -804,12 +1400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI client generator",
+                "homepage": null,
                 "id": 200362987,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-06T21:45:13Z",
+                "open_issues": 11,
                 "owner": "dmontagu",
                 "repo": "fastapi_client",
-                "stars": 425
+                "stars": 425,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -820,12 +1421,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A FastAPI Middleware of https://github.com/joerick/pyinstrument to check your service performance.",
+                "homepage": null,
                 "id": 308579691,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-12T07:27:51Z",
+                "open_issues": 1,
                 "owner": "sunhailin-Leo",
                 "repo": "fastapi_profiler",
-                "stars": 366
+                "stars": 366,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -836,12 +1442,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Drop-in MessagePack support for ASGI applications and frameworks",
+                "homepage": "https://pypi.org/project/msgpack-asgi",
                 "id": 219042240,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-03T08:07:28Z",
+                "open_issues": 1,
                 "owner": "florimondmanca",
                 "repo": "msgpack-asgi",
-                "stars": 276
+                "stars": 276,
+                "topics": [
+                  "asgi",
+                  "fastapi",
+                  "json",
+                  "messagepack",
+                  "middleware",
+                  "msgpack",
+                  "python",
+                  "starlette"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -852,12 +1472,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run your jupyter notebooks as a REST API endpoint. This isn't a jupyter server but rather just a way to run your notebooks as a REST API Endpoint.",
+                "homepage": null,
                 "id": 251789183,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-12-08T03:56:51Z",
+                "open_issues": 11,
                 "owner": "Invictify",
                 "repo": "Jupter-Notebook-REST-API",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "data-science",
+                  "data-science-pipelines",
+                  "docker",
+                  "dockerfile",
+                  "fastapi",
+                  "jupyter",
+                  "python",
+                  "rest-api"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -868,12 +1502,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A holistic CRUD/MVC framework for FastAPI, with endpoint policies and relationships",
+                "homepage": null,
                 "id": 608343303,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-19T18:13:11Z",
+                "open_issues": 0,
                 "owner": "mdconaway",
                 "repo": "fastapi-cruddy-framework",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -884,12 +1523,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event-Driven Architecture Framework",
+                "homepage": "https://mkdocs.python-cqrs.dev/",
                 "id": 835891783,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-21T16:06:54Z",
+                "open_issues": 4,
                 "owner": "pypatterns",
                 "repo": "python-cqrs",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "cqrs-pattern",
+                  "eda",
+                  "event-driven",
+                  "event-driven-architecture",
+                  "event-sourcing",
+                  "fastapi",
+                  "faststream",
+                  "mediator",
+                  "outbox",
+                  "outbox-pattern",
+                  "python-saga-orchestration",
+                  "python3",
+                  "saga",
+                  "saga-pattern"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             }
@@ -907,12 +1566,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fastapi mail system sending mails(individual, bulk) attachments(individual, bulk)",
+                "homepage": "https://sabuhish.github.io/fastapi-mail/",
                 "id": 236163572,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T10:53:07Z",
+                "open_issues": 4,
                 "owner": "sabuhish",
                 "repo": "fastapi-mail",
-                "stars": 1010
+                "stars": 1010,
+                "topics": [
+                  "fastapi",
+                  "fastapi-mail",
+                  "fastmail"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             }
@@ -930,12 +1598,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A GraphQL library for Python that leverages type annotations 🍓",
+                "homepage": "https://strawberry.rocks",
                 "id": 162690887,
                 "language": "Python",
-                "last_commit": "2026-08-28T23:24:47Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:49:49Z",
+                "open_issues": 308,
                 "owner": "strawberry-graphql",
                 "repo": "strawberry",
-                "stars": 4706
+                "stars": 4706,
+                "topics": [
+                  "asgi",
+                  "asyncio",
+                  "django",
+                  "fastapi",
+                  "graphql",
+                  "graphql-library",
+                  "graphql-schema",
+                  "graphql-server",
+                  "hacktoberfest",
+                  "mypy",
+                  "python",
+                  "starlette",
+                  "strawberry"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -946,12 +1633,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reusable utilities for FastAPI",
+                "homepage": "https://fastapiutils.github.io/fastapi-utils/",
                 "id": 234978122,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-03T19:47:13Z",
+                "open_issues": 75,
                 "owner": "fastapiutils",
                 "repo": "fastapi-utils",
-                "stars": 2309
+                "stars": 2309,
+                "topics": [
+                  "fastapi"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -962,12 +1656,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A rate limiter for Starlette and FastAPI",
+                "homepage": "https://pypi.org/project/slowapi/",
                 "id": 242139417,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:07:50Z",
+                "open_issues": 104,
                 "owner": "laurentS",
                 "repo": "slowapi",
-                "stars": 2051
+                "stars": 2051,
+                "topics": [
+                  "asgi",
+                  "fastapi",
+                  "python",
+                  "rate-limiter",
+                  "starlette",
+                  "uvicorn"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -978,12 +1684,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.",
+                "homepage": "https://github.com/long2ice/fastapi-cache",
                 "id": 290160721,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-30T00:20:56Z",
+                "open_issues": 110,
                 "owner": "long2ice",
                 "repo": "fastapi-cache",
-                "stars": 1867
+                "stars": 1867,
+                "topics": [
+                  "cache",
+                  "fastapi",
+                  "memcached",
+                  "redis"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -994,12 +1710,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI pagination 📖 ",
+                "homepage": "https://uriyyo-fastapi-pagination.netlify.app/",
                 "id": 310670921,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T03:09:19Z",
+                "open_issues": 7,
                 "owner": "uriyyo",
                 "repo": "fastapi-pagination",
-                "stars": 1679
+                "stars": 1679,
+                "topics": [
+                  "fastapi",
+                  "fastapi-pagination",
+                  "fastapi-sqlalchemy",
+                  "gino",
+                  "pagination"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1010,12 +1737,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastCRUD is a Python package for FastAPI, offering robust async CRUD operations and flexible endpoint creation utilities.",
+                "homepage": "https://benavlabs.github.io/fastcrud/",
                 "id": 740300919,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-21T04:03:28Z",
+                "open_issues": 14,
                 "owner": "benavlabs",
                 "repo": "fastcrud",
-                "stars": 1572
+                "stars": 1572,
+                "topics": [
+                  "async",
+                  "backend",
+                  "crud",
+                  "fastapi",
+                  "pydantic",
+                  "pydantic-v2",
+                  "python",
+                  "sqlalchemy"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1026,12 +1767,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instrument your FastAPI with Prometheus metrics.",
+                "homepage": null,
                 "id": 278339916,
                 "language": "Python",
+                "license": "ISC",
                 "last_commit": "2026-08-01T05:34:02Z",
+                "open_issues": 64,
                 "owner": "trallnag",
                 "repo": "prometheus-fastapi-instrumentator",
-                "stars": 1482
+                "stars": 1482,
+                "topics": [
+                  "exporter",
+                  "fastapi",
+                  "instrumentation",
+                  "metrics",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1042,12 +1794,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenTelemetry instrumentation for Python modules",
+                "homepage": "https://opentelemetry.io",
                 "id": 220524743,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T18:55:39Z",
+                "open_issues": 654,
                 "owner": "open-telemetry",
                 "repo": "opentelemetry-python-contrib",
-                "stars": 1090
+                "stars": 1090,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1058,12 +1815,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A request rate limiter for fastapi",
+                "homepage": "https://github.com/long2ice/fastapi-limiter",
                 "id": 310551010,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-06T08:40:24Z",
+                "open_issues": 31,
                 "owner": "long2ice",
                 "repo": "fastapi-limiter",
-                "stars": 789
+                "stars": 789,
+                "topics": [
+                  "asyncio",
+                  "fastapi",
+                  "limiter"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1074,12 +1840,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Opinionated set of utilities on top of FastAPI",
+                "homepage": "https://fastapi-contrib.readthedocs.io",
                 "id": 203662623,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-12T13:55:21Z",
+                "open_issues": 15,
                 "owner": "identixone",
                 "repo": "fastapi_contrib",
-                "stars": 735
+                "stars": 735,
+                "topics": [
+                  "fastapi",
+                  "fastapi-template",
+                  "mongodb",
+                  "pydantic",
+                  "python",
+                  "starlette",
+                  "ujson"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1090,12 +1869,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Request ID propagation for ASGI apps",
+                "homepage": null,
                 "id": 421007644,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-09T15:09:21Z",
+                "open_issues": 2,
                 "owner": "snok",
                 "repo": "asgi-correlation-id",
-                "stars": 642
+                "stars": 642,
+                "topics": [
+                  "celery",
+                  "correlation-id",
+                  "logging",
+                  "python",
+                  "request-id",
+                  "sentry",
+                  "tracing"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1106,12 +1898,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI framework plugins",
+                "homepage": null,
                 "id": 222924508,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-09T21:03:39Z",
+                "open_issues": 5,
                 "owner": "madkote",
                 "repo": "fastapi-plugins",
-                "stars": 611
+                "stars": 611,
+                "topics": [
+                  "aiojobs",
+                  "aiomcache",
+                  "aioredis",
+                  "async",
+                  "asyncio",
+                  "fastapi",
+                  "fastapi-plugins",
+                  "healthchecks",
+                  "json",
+                  "logging",
+                  "memcached",
+                  "openapi",
+                  "openapi3",
+                  "python",
+                  "python3",
+                  "redis",
+                  "redis-sentinel"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1122,12 +1937,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Asynchronous event dispatching/handling library for FastAPI and Starlette",
+                "homepage": null,
                 "id": 393966257,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-21T00:55:15Z",
+                "open_issues": 11,
                 "owner": "melvinkcx",
                 "repo": "fastapi-events",
-                "stars": 609
+                "stars": 609,
+                "topics": [
+                  "asgi",
+                  "events",
+                  "fastapi",
+                  "python",
+                  "starlette"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1138,12 +1964,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Middleware for Starlette that allows you to store and access the context data of a request. Can be used with logging so logs automatically use request headers such as x-request-id or x-correlation-id.",
+                "homepage": "https://starlette-context.readthedocs.io/en/latest/",
                 "id": 219023167,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-24T04:02:35Z",
+                "open_issues": 8,
                 "owner": "tomwojcik",
                 "repo": "starlette-context",
-                "stars": 608
+                "stars": 608,
+                "topics": [
+                  "fastapi",
+                  "middleware",
+                  "python",
+                  "python3",
+                  "starlette",
+                  "starlette-context"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1154,12 +1992,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Easily integrate socket.io with your FastAPI app 🚀",
+                "homepage": null,
                 "id": 294731010,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-26T03:02:26Z",
+                "open_issues": 23,
                 "owner": "pyropy",
                 "repo": "fastapi-socketio",
-                "stars": 420
+                "stars": 420,
+                "topics": [
+                  "fastapi",
+                  "fastapi-socketio",
+                  "python",
+                  "socketio",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1170,12 +2019,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prometheus exporter for Starlette and FastAPI",
+                "homepage": null,
                 "id": 217774698,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-29T04:08:50Z",
+                "open_issues": 10,
                 "owner": "stephenhillier",
                 "repo": "starlette_exporter",
-                "stars": 412
+                "stars": 412,
+                "topics": [
+                  "asgi",
+                  "fastapi",
+                  "prometheus",
+                  "prometheus-exporter",
+                  "starlette"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1186,12 +2046,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fastapi-mqtt is extension for MQTT protocol",
+                "homepage": "https://sabuhish.github.io/fastapi-mqtt/",
                 "id": 314475975,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-22T08:58:45Z",
+                "open_issues": 5,
                 "owner": "sabuhish",
                 "repo": "fastapi-mqtt",
-                "stars": 385
+                "stars": 385,
+                "topics": [
+                  "asynchronous",
+                  "fastapi",
+                  "fastapimqtt",
+                  "mqtt",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1202,12 +2073,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prometheus integration for Starlette.",
+                "homepage": null,
                 "id": 165087274,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-05-20T15:57:03Z",
+                "open_issues": 17,
                 "owner": "perdy",
                 "repo": "starlette-prometheus",
-                "stars": 376
+                "stars": 376,
+                "topics": [
+                  "asgi",
+                  "metrics",
+                  "middleware",
+                  "prometheus",
+                  "starlette"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1218,12 +2100,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pydantic-resolve is a progressive data assembly framework which follows the stye of clean architecture",
+                "homepage": "https://klr-pattern.github.io/pydantic-resolve/",
                 "id": 610649159,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-07T13:21:01Z",
+                "open_issues": 3,
                 "owner": "KLR-Pattern",
                 "repo": "pydantic-resolve",
-                "stars": 326
+                "stars": 326,
+                "topics": [
+                  "bff",
+                  "fastapi",
+                  "fullstack",
+                  "graphql",
+                  "mcp",
+                  "pydantic",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1234,12 +2129,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI simple cache",
+                "homepage": null,
                 "id": 282604948,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-13T17:48:58Z",
+                "open_issues": 10,
                 "owner": "comeuplater",
                 "repo": "fastapi_cache",
-                "stars": 304
+                "stars": 304,
+                "topics": [
+                  "cache",
+                  "fastapi",
+                  "python",
+                  "pyton3",
+                  "redis"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1250,12 +2156,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A seamless solution for using FastAPI's dependency injection system outside of route handlers, enabling painless reuse of dependencies in CLI tools, background tasks, and other non-HTTP contexts.",
+                "homepage": "https://fastapi-injectable.readthedocs.io",
                 "id": 905359425,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T14:42:44Z",
+                "open_issues": 2,
                 "owner": "JasperSui",
                 "repo": "fastapi-injectable",
-                "stars": 294
+                "stars": 294,
+                "topics": [
+                  "background-tasks",
+                  "celery",
+                  "clean-architecture",
+                  "cli",
+                  "dependency-injection",
+                  "depends",
+                  "di",
+                  "dramatiq",
+                  "fastapi",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1266,12 +2188,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adds integration of the Chameleon template language to FastAPI. #pypackage",
+                "homepage": "https://mkennedy.codes/docs/fastapi-chameleon/",
                 "id": 307430870,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-22T02:24:22Z",
+                "open_issues": 1,
                 "owner": "mikeckennedy",
                 "repo": "fastapi-chameleon",
-                "stars": 225
+                "stars": 225,
+                "topics": [
+                  "chameleon",
+                  "fastapi",
+                  "fastapi-template",
+                  "python",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1282,12 +2215,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple API monitoring & analytics for Python apps",
+                "homepage": "https://apitally.io",
                 "id": 661287015,
                 "language": "Python",
-                "last_commit": "2026-08-28T23:09:06Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:06:03Z",
+                "open_issues": 5,
                 "owner": "apitally",
                 "repo": "apitally-py",
-                "stars": 223
+                "stars": 223,
+                "topics": [
+                  "api",
+                  "api-analytics",
+                  "api-logging",
+                  "api-monitoring",
+                  "api-observability",
+                  "blacksheep",
+                  "django",
+                  "django-ninja",
+                  "django-rest-framework",
+                  "fastapi",
+                  "flask",
+                  "litestar",
+                  "monitoring",
+                  "python",
+                  "rest-api",
+                  "starlette"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1298,12 +2253,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI for generating FastAPI projects with selectable templates :sparkles:",
+                "homepage": null,
                 "id": 412096693,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-24T08:25:14Z",
+                "open_issues": 4,
                 "owner": "yezz123",
                 "repo": "fastango",
-                "stars": 197
+                "stars": 197,
+                "topics": [
+                  "cli",
+                  "fastapi",
+                  "orjson",
+                  "pydantic",
+                  "typer"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1314,12 +2280,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adds integration of the Jinja template language to FastAPI.",
+                "homepage": null,
                 "id": 307512059,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-16T02:53:24Z",
+                "open_issues": 1,
                 "owner": "AGeekInside",
                 "repo": "fastapi-jinja",
-                "stars": 156
+                "stars": 156,
+                "topics": [
+                  "hacktoberfest",
+                  "hacktoberfest2020"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1330,12 +2304,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI Feature Flags",
+                "homepage": "https://pypi.org/project/fastapi-featureflags/",
                 "id": 431191676,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-10T13:35:59Z",
+                "open_issues": 4,
                 "owner": "Pytlicek",
                 "repo": "fastapi-featureflags",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "api",
+                  "fastapi",
+                  "fastapi-featureflags",
+                  "feature-flags",
+                  "featureflags",
+                  "hacktoberfest",
+                  "hacktoberfest-accepted",
+                  "python",
+                  "python-framework",
+                  "python-library",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1346,12 +2337,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Opentracing support for Starlette and FastApi",
+                "homepage": null,
                 "id": 252758728,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-11-17T23:01:37Z",
+                "open_issues": 1,
                 "owner": "acidjunk",
                 "repo": "starlette-opentracing",
-                "stars": 147
+                "stars": 147,
+                "topics": [
+                  "fastapi",
+                  "starlette",
+                  "starlette-middleware"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1362,12 +2362,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advanced items listing library that gives you freedom to design complex listing REST APIs that can be read by human.",
+                "homepage": null,
                 "id": 618357670,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-23T13:17:23Z",
+                "open_issues": 4,
                 "owner": "danielhasan1",
                 "repo": "fastapi-listing",
-                "stars": 136
+                "stars": 136,
+                "topics": [
+                  "fastapi",
+                  "json",
+                  "library",
+                  "listing-api",
+                  "python",
+                  "rest-api",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1378,12 +2391,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CloudEvents FastAPI plugin.  Allows to easily consume and produce events in CloudEvents format over REST API.",
+                "homepage": null,
                 "id": 521671793,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-01T04:18:36Z",
+                "open_issues": 2,
                 "owner": "sasha-tkachev",
                 "repo": "fastapi-cloudevents",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "cloudevents",
+                  "event",
+                  "event-drive",
+                  "event-driven-architecture",
+                  "events",
+                  "fastapi",
+                  "fastapi-extension",
+                  "pydantic",
+                  "python",
+                  "rest",
+                  "rest-api"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1394,12 +2424,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utils for fastapi based services.",
+                "homepage": null,
                 "id": 216404985,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-07-29T07:36:48Z",
+                "open_issues": 2,
                 "owner": "skallfass",
                 "repo": "fastapi_serviceutils",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "fastapi",
+                  "python",
+                  "rest"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1410,12 +2449,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fastapi opentracing middleware works on k8s",
+                "homepage": null,
                 "id": 299216829,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-06T03:09:19Z",
+                "open_issues": 7,
                 "owner": "wesdu",
                 "repo": "fastapi-opentracing",
-                "stars": 106
+                "stars": 106,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1426,12 +2470,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fork of https://github.com/permitio/fastapi_websocket_pubsub",
+                "homepage": null,
                 "id": 436992435,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-12-10T15:48:21Z",
+                "open_issues": 0,
                 "owner": "authorizon",
                 "repo": "fastapi_websocket_pubsub",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1442,12 +2491,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Starlette middleware for Prerender",
+                "homepage": null,
                 "id": 245627127,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-07-21T05:07:57Z",
+                "open_issues": 10,
                 "owner": "BeeMyDesk",
                 "repo": "prerender-python-starlette",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "asgi",
+                  "fastapi",
+                  "prerender",
+                  "ssr",
+                  "starlette",
+                  "starlette-middleware"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1458,12 +2519,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fork of https://github.com/permitio/fastapi_websocket_rpc",
+                "homepage": "https://permit.io",
                 "id": 437030617,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-12-10T15:47:27Z",
+                "open_issues": 0,
                 "owner": "authorizon",
                 "repo": "fastapi_websocket_rpc",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1474,12 +2540,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Decorator to shield your FastAPI endpoints.",
+                "homepage": "https://fastapi-shield.asyncmove.com/",
                 "id": 968231407,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-19T08:10:14Z",
+                "open_issues": 3,
                 "owner": "jymchng",
                 "repo": "fastapi-shield",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1490,12 +2561,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Django REST Framework-style ViewSets for FastAPI — auto-generate CRUD endpoints from SQLAlchemy, Tortoise ORM, or Peewee models in minutes.",
+                "homepage": null,
                 "id": 490360372,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-25T17:04:05Z",
+                "open_issues": 0,
                 "owner": "svalench",
                 "repo": "fastapi_viewsets",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "async",
+                  "crud",
+                  "crud-api",
+                  "fastapi",
+                  "orm",
+                  "peewee",
+                  "peewee-orm",
+                  "rest",
+                  "rest-api",
+                  "sqlalchemy",
+                  "sqlalchemy-orm",
+                  "tortoise-orm",
+                  "viewset"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             }
@@ -1519,12 +2609,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+                "homepage": "https://fastapi.tiangolo.com/",
                 "id": 160919119,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:54:56Z",
+                "open_issues": 79,
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101910
+                "stars": 101913,
+                "topics": [
+                  "api",
+                  "async",
+                  "asyncio",
+                  "fastapi",
+                  "framework",
+                  "json",
+                  "json-schema",
+                  "openapi",
+                  "openapi3",
+                  "pydantic",
+                  "python",
+                  "python-types",
+                  "python3",
+                  "redoc",
+                  "rest",
+                  "starlette",
+                  "swagger",
+                  "swagger-ui",
+                  "uvicorn",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             }
@@ -1542,12 +2658,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI Best Practices and Conventions we used at our startup",
+                "homepage": null,
                 "id": 522822986,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-27T12:54:52Z",
+                "open_issues": 16,
                 "owner": "zhanymkanov",
                 "repo": "fastapi-best-practices",
-                "stars": 17983
+                "stars": 17984,
+                "topics": [
+                  "best-practices",
+                  "fastapi"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1558,12 +2682,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Practical Clean Architecture backend example built with FastAPI. No stateful globals (DI), low coupling (DIP), tactical DDD, CQRS, proper UoW usage. REST API, per-route error handling, session-based auth, contextual RBAC. Bundled with extensive docs and modern tooling",
+                "homepage": null,
                 "id": 883271732,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-30T20:08:24Z",
+                "open_issues": 0,
                 "owner": "ivan-borovets",
                 "repo": "fastapi-clean-example",
-                "stars": 585
+                "stars": 585,
+                "topics": [
+                  "alembic",
+                  "api",
+                  "architecture",
+                  "clean-architecture",
+                  "cqrs",
+                  "crud",
+                  "dependency-injection",
+                  "fastapi",
+                  "fastapi-auth",
+                  "fastapi-crud",
+                  "fastapi-example",
+                  "fastapi-template",
+                  "hexagonal-architecture",
+                  "onion-architecture",
+                  "python",
+                  "python-clean-architecture",
+                  "restful-api",
+                  "sqlalchemy",
+                  "unit-of-work",
+                  "uv"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1574,12 +2724,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Template for app based on: FastAPI, dishka, faststream, sqlalchemy, pydantic",
+                "homepage": null,
                 "id": 770039164,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-22T18:22:50Z",
+                "open_issues": 1,
                 "owner": "faststream-community",
                 "repo": "fastapi-dishka-faststream",
-                "stars": 321
+                "stars": 321,
+                "topics": [
+                  "dishka",
+                  "fastapi",
+                  "faststream",
+                  "pydantic",
+                  "sqlalchemy"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             }
@@ -1603,12 +2764,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example project demonstrating how to deploy a FastAPI app to Fly.io.",
+                "homepage": null,
                 "id": 683104452,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-02-27T03:32:58Z",
+                "open_issues": 2,
                 "owner": "fly-apps",
                 "repo": "hello-fastapi",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             }
@@ -1626,12 +2792,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Serverless Microframework for AWS",
+                "homepage": null,
                 "id": 59868262,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-12T15:03:00Z",
+                "open_issues": 493,
                 "owner": "aws",
                 "repo": "chalice",
-                "stars": 11059
+                "stars": 11059,
+                "topics": [
+                  "aws",
+                  "aws-apigateway",
+                  "aws-lambda",
+                  "cloud",
+                  "lambda",
+                  "python",
+                  "python27",
+                  "python3",
+                  "serverless",
+                  "serverless-framework"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1642,12 +2824,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown Videos lets you embed videos into GitHub markdown with ease!",
+                "homepage": "https://markdown-videos.jorgenkh.no/",
                 "id": 561869053,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-21T15:08:49Z",
+                "open_issues": 28,
                 "owner": "Snailedlt",
                 "repo": "Markdown-Videos",
-                "stars": 172
+                "stars": 172,
+                "topics": [
+                  "fastapi",
+                  "hacktoberfest",
+                  "markdown",
+                  "pillow",
+                  "pnpm",
+                  "pnpm-workspaces",
+                  "python",
+                  "python-3",
+                  "rest-api",
+                  "sass",
+                  "svelte",
+                  "thumbnail-downloader",
+                  "tool",
+                  "turborepo",
+                  "typescript",
+                  "vercel",
+                  "vercel-deployment",
+                  "vercel-serverless-functions",
+                  "vimeo-thumbnail",
+                  "youtube-thumbnail"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1658,12 +2866,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI on Google Cloud Run",
+                "homepage": null,
                 "id": 238754329,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-07T23:42:50Z",
+                "open_issues": 0,
                 "owner": "anthonycorletti",
                 "repo": "cloudrun-fastapi",
-                "stars": 283
+                "stars": 283,
+                "topics": [
+                  "alembic",
+                  "docker",
+                  "fastapi",
+                  "google-cloud",
+                  "google-cloud-run",
+                  "postgresql",
+                  "pytest",
+                  "python3",
+                  "sqlalchemy",
+                  "sqlmodel"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1674,12 +2898,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example app to be deployed to AWS as an API Gateway / Lambda Stack",
+                "homepage": null,
                 "id": 234381180,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-07-23T07:28:45Z",
+                "open_issues": 3,
                 "owner": "iwpnd",
                 "repo": "fastapi-aws-lambda-example",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "aws",
+                  "aws-lambda",
+                  "aws-sam",
+                  "aws-sam-cli",
+                  "fastapi",
+                  "fastapi-template"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             }
@@ -1703,12 +2939,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.",
+                "homepage": null,
                 "id": 172227885,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:53:13Z",
+                "open_issues": 8,
                 "owner": "fastapi",
                 "repo": "full-stack-fastapi-template",
-                "stars": 45224
+                "stars": 45226,
+                "topics": [
+                  "docker",
+                  "docker-compose",
+                  "fastapi",
+                  "fastapi-cloud",
+                  "full-stack",
+                  "github-actions",
+                  "jwt",
+                  "openapi",
+                  "playwright",
+                  "postgresql",
+                  "pytest",
+                  "python",
+                  "react",
+                  "shadcn-ui",
+                  "sqlmodel",
+                  "tailwindcss",
+                  "tanstack-query",
+                  "tanstack-router",
+                  "typescript",
+                  "vite"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1719,12 +2981,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Feature rich robust FastAPI template.",
+                "homepage": null,
                 "id": 301531901,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-05T15:42:08Z",
+                "open_issues": 39,
                 "owner": "s3rius",
                 "repo": "FastAPI-template",
-                "stars": 2824
+                "stars": 2824,
+                "topics": [
+                  "aerich",
+                  "alembic",
+                  "asynchronous",
+                  "asyncio",
+                  "cookiecutter",
+                  "cookiecutter-python3",
+                  "cookiecutter-template",
+                  "fastapi",
+                  "fastapi-boilerplate",
+                  "fastapi-template",
+                  "graphql",
+                  "opentelemetry",
+                  "ormar",
+                  "prometheus",
+                  "python3",
+                  "sentry",
+                  "sqlalchemy-orm",
+                  "strawberry-graphql",
+                  "tortoise-orm"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1735,12 +3022,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker",
+                "homepage": null,
                 "id": 249049296,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-06T23:46:17Z",
+                "open_issues": 42,
                 "owner": "Buuntu",
                 "repo": "fastapi-react",
-                "stars": 2584
+                "stars": 2584,
+                "topics": [
+                  "boilerplate",
+                  "cookiecutter",
+                  "docker",
+                  "fastapi",
+                  "full-stack",
+                  "jwt",
+                  "nginx",
+                  "oauth2",
+                  "postgres",
+                  "react",
+                  "react-admin",
+                  "sqlalchemy",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1751,12 +3057,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate modern Python clients from OpenAPI",
+                "homepage": null,
                 "id": 240776275,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T11:50:30Z",
+                "open_issues": 118,
                 "owner": "openapi-generators",
                 "repo": "openapi-python-client",
-                "stars": 1984
+                "stars": 1984,
+                "topics": [
+                  "fastapi",
+                  "generator",
+                  "openapi",
+                  "openapi-document",
+                  "openapi-python-client",
+                  "openapi3",
+                  "openapi31",
+                  "python",
+                  "python3",
+                  "rest-api"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1767,12 +3089,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a project template which uses FastAPI, Pydantic 2.0, Alembic and async SQLModel as ORM. It shows a complete async CRUD using authentication and role base access control.",
+                "homepage": null,
                 "id": 466844534,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-09T14:50:35Z",
+                "open_issues": 9,
                 "owner": "vargasjona",
                 "repo": "fastapi-alembic-sqlmodel-async",
-                "stars": 1268
+                "stars": 1268,
+                "topics": [
+                  "alembic",
+                  "asyncio",
+                  "caddy",
+                  "docker",
+                  "docker-compose",
+                  "fastapi",
+                  "fastapi-async-db",
+                  "fastapi-boilerplate",
+                  "fastapi-cache",
+                  "fastapi-crud",
+                  "fastapi-pagination",
+                  "fastapi-sqlmodel",
+                  "postgresql",
+                  "pydantic-v2",
+                  "sqlalchemy",
+                  "sqlalchemy2",
+                  "sqlmodel"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1783,12 +3128,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐍 Simple FastAPI template that mimics Flask's blueprint directory structure",
+                "homepage": null,
                 "id": 267302274,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T18:41:09Z",
+                "open_issues": 0,
                 "owner": "rednafi",
                 "repo": "fastapi-nano",
-                "stars": 1034
+                "stars": 1034,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1799,12 +3149,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full stack, modern web application generator. Using FastAPI, MongoDB as database, Docker, automatic HTTPS and more.",
+                "homepage": null,
                 "id": 694272087,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-04T18:23:16Z",
+                "open_issues": 7,
                 "owner": "mongodb-labs",
                 "repo": "full-stack-fastapi-mongodb",
-                "stars": 817
+                "stars": 817,
+                "topics": [
+                  "docker",
+                  "docker-compose",
+                  "fastapi",
+                  "fastapi-boilerplate",
+                  "fastapi-mongodb",
+                  "flower",
+                  "frontend",
+                  "hatch",
+                  "mongodb",
+                  "mongodb-compass",
+                  "nextjs",
+                  "odmantic",
+                  "python",
+                  "python-fastapi",
+                  "react",
+                  "template-project"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1815,12 +3187,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytests",
+                "homepage": null,
                 "id": 233464042,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-25T15:58:56Z",
+                "open_issues": 1,
                 "owner": "arthurhenrique",
                 "repo": "cookiecutter-fastapi",
-                "stars": 706
+                "stars": 706,
+                "topics": [
+                  "ai",
+                  "black",
+                  "boilerplate",
+                  "cli",
+                  "cookiecutter",
+                  "cookiecutter-fastapi",
+                  "deep-learning",
+                  "docker",
+                  "fastapi",
+                  "fastapi-boilerplate",
+                  "hacktoberfest",
+                  "llm",
+                  "machine-learning",
+                  "ml",
+                  "mlops",
+                  "neural-network",
+                  "openai",
+                  "python",
+                  "uv"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1831,12 +3228,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cookiecutter API for creating Custom Skills for Azure Search using Python and Docker",
+                "homepage": null,
                 "id": 182879049,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-28T19:10:04Z",
+                "open_issues": 7,
                 "owner": "microsoft",
                 "repo": "cookiecutter-spacy-fastapi",
-                "stars": 614
+                "stars": 614,
+                "topics": [
+                  "azure-search",
+                  "cognitive-search",
+                  "fastapi",
+                  "natural-language-processing",
+                  "spacy"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1847,12 +3255,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI Skeleton App to serve machine learning models production-ready.",
+                "homepage": null,
                 "id": 240726747,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-08T02:06:03Z",
+                "open_issues": 8,
                 "owner": "eightBEC",
                 "repo": "fastapi-ml-skeleton",
-                "stars": 603
+                "stars": 603,
+                "topics": [
+                  "fastapi",
+                  "machine-learning",
+                  "model-serving",
+                  "python",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1863,12 +3282,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-performance Async REST API, in Python. FastAPI + GINO + Arq + Uvicorn (w/ Redis and PostgreSQL).",
+                "homepage": null,
                 "id": 193383620,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-08T10:32:45Z",
+                "open_issues": 5,
                 "owner": "leosussan",
                 "repo": "fastapi-gino-arq-uvicorn",
-                "stars": 553
+                "stars": 553,
+                "topics": [
+                  "api",
+                  "arq",
+                  "async",
+                  "asyncio",
+                  "fastapi",
+                  "gino",
+                  "openapi3",
+                  "postgresql",
+                  "pydantic",
+                  "python",
+                  "python3",
+                  "rest",
+                  "swagger",
+                  "uvicorn",
+                  "uvloop"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1879,12 +3319,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI on Google Cloud Run",
+                "homepage": null,
                 "id": 238754329,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-07T23:42:50Z",
+                "open_issues": 0,
                 "owner": "anthonycorletti",
                 "repo": "cloudrun-fastapi",
-                "stars": 283
+                "stars": 283,
+                "topics": [
+                  "alembic",
+                  "docker",
+                  "fastapi",
+                  "google-cloud",
+                  "google-cloud-run",
+                  "postgresql",
+                  "pytest",
+                  "python3",
+                  "sqlalchemy",
+                  "sqlmodel"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1895,12 +3351,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The template for building scalable web APIs based on FastAPI, Tortoise ORM and other.",
+                "homepage": null,
                 "id": 224797511,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-27T14:26:18Z",
+                "open_issues": 0,
                 "owner": "prostomarkeloff",
                 "repo": "fastapi-tortoise",
-                "stars": 221
+                "stars": 221,
+                "topics": [
+                  "asyncio",
+                  "fastapi",
+                  "openapi",
+                  "project-template",
+                  "python3",
+                  "rest",
+                  "swagger"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1911,12 +3380,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI Starter Project with SQLModel and Alembic",
+                "homepage": null,
                 "id": 435674776,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-27T15:39:23Z",
+                "open_issues": 0,
                 "owner": "mirzadelic",
                 "repo": "fastapi-starter-project",
-                "stars": 212
+                "stars": 212,
+                "topics": [
+                  "alembic",
+                  "docker",
+                  "fastapi",
+                  "sqlmodel"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1927,12 +3406,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dockerized FastAPI + SQLAlchemy 2 + PostgreSQL app template with DI",
+                "homepage": "https://modern-python.org",
                 "id": 340951270,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-13T08:45:25Z",
+                "open_issues": 1,
                 "owner": "modern-python",
                 "repo": "fastapi-sqlalchemy-template",
-                "stars": 211
+                "stars": 211,
+                "topics": [
+                  "advanced-alchemy",
+                  "alembic",
+                  "asyncio",
+                  "boilerplate",
+                  "di",
+                  "docker",
+                  "fastapi",
+                  "ioc-container",
+                  "justfile",
+                  "modern-di",
+                  "postgresql",
+                  "python",
+                  "sqlalchemy",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1943,12 +3442,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI with Google Cloud Firestore.",
+                "homepage": null,
                 "id": 303293162,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-07T23:42:28Z",
+                "open_issues": 2,
                 "owner": "anthonycorletti",
                 "repo": "firestore-fastapi",
-                "stars": 130
+                "stars": 130,
+                "topics": [
+                  "docker",
+                  "fastapi",
+                  "google-cloud",
+                  "google-cloud-firestore",
+                  "google-cloud-run",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1959,12 +3470,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cookiecutter project template for starting a FastAPI application. Runs in a Docker container with Uvicorn ASGI server on Kubernetes. Supports AMD64 and ARM64 CPU architectures.",
+                "homepage": null,
                 "id": 488334622,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-01T08:06:21Z",
+                "open_issues": 5,
                 "owner": "max-pfeiffer",
                 "repo": "uvicorn-poetry-fastapi-project-template",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "amd64",
+                  "arm64",
+                  "cookiecutter",
+                  "cookiecutter-template",
+                  "docker",
+                  "fastapi",
+                  "kubernetes",
+                  "poetry",
+                  "python",
+                  "uvicorn"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1975,12 +3502,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🐍Pywork is a Yeoman generator to scaffold a Bare-bone Python Application",
+                "homepage": null,
                 "id": 227279423,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-02T08:58:55Z",
+                "open_issues": 0,
                 "owner": "vutran1710",
                 "repo": "YeomanPywork",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "fastapi",
+                  "generator",
+                  "logzero",
+                  "pipenv",
+                  "pydantic",
+                  "python",
+                  "scaffolding",
+                  "yeoman"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -1991,12 +3532,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI backend blueprint for AI agent apps: DDD, SQLAlchemy, Taskiq, admin UI, RAG infra, and Claude/Codex collaboration harness.",
+                "homepage": null,
                 "id": 1191447179,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-13T06:14:21Z",
+                "open_issues": 4,
                 "owner": "Mr-DooSun",
                 "repo": "fastapi-agent-blueprint",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "ai-agents",
+                  "ai-assisted-development",
+                  "alembic",
+                  "backend-blueprint",
+                  "backend-template",
+                  "claude-code",
+                  "clean-architecture",
+                  "codex",
+                  "coding-agents",
+                  "dependency-injection",
+                  "domain-driven-design",
+                  "fastapi",
+                  "fastapi-template",
+                  "llm",
+                  "pydantic",
+                  "pydantic-ai",
+                  "python",
+                  "rag",
+                  "sqlalchemy",
+                  "taskiq"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             }
@@ -2014,12 +3581,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning.",
+                "homepage": null,
                 "id": 164136678,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T07:52:56Z",
+                "open_issues": 3,
                 "owner": "tiangolo",
                 "repo": "uvicorn-gunicorn-fastapi-docker",
-                "stars": 2915
+                "stars": 2915,
+                "topics": [
+                  "asgi",
+                  "async",
+                  "docker",
+                  "docker-image",
+                  "fastapi",
+                  "gunicorn",
+                  "json",
+                  "json-schema",
+                  "openapi",
+                  "openapi3",
+                  "pydantic",
+                  "python",
+                  "python-types",
+                  "redoc",
+                  "swagger-ui",
+                  "uvicorn",
+                  "web",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2030,12 +3621,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚢 Docker images and utilities to power your Python APIs and help you ship faster. With support for Uvicorn, Gunicorn, Starlette, and FastAPI.",
+                "homepage": "https://inboard.bws.bio",
                 "id": 284327701,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-08T20:30:45Z",
+                "open_issues": 0,
                 "owner": "br3ndonland",
                 "repo": "inboard",
-                "stars": 318
+                "stars": 318,
+                "topics": [
+                  "actions",
+                  "asgi",
+                  "docker",
+                  "fastapi",
+                  "ghcr",
+                  "github-container-registry",
+                  "github-packages",
+                  "gunicorn",
+                  "hatch",
+                  "python",
+                  "starlette",
+                  "uvicorn"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2046,12 +3655,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker image with Uvicorn ASGI server for running Python web applications on Kubernetes. Uses Poetry for managing dependencies and setting up a virtual environment. Supports AMD64 and ARM64 CPU architectures.",
+                "homepage": "https://hub.docker.com/r/pfeiffermax/uvicorn-poetry",
                 "id": 432675971,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-01T22:04:11Z",
+                "open_issues": 6,
                 "owner": "max-pfeiffer",
                 "repo": "uvicorn-poetry",
-                "stars": 136
+                "stars": 136,
+                "topics": [
+                  "amd64",
+                  "arm64",
+                  "asgi",
+                  "docker",
+                  "docker-image",
+                  "fastapi",
+                  "kubernetes",
+                  "poetry",
+                  "python",
+                  "uvicorn"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2062,12 +3687,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker image with Gunicorn using Uvicorn workers for running Python web applications. Uses Poetry for managing dependencies and setting up a virtual environment. Supports AMD64 and ARM64 CPU architectures.",
+                "homepage": null,
                 "id": 401822597,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-21T11:20:16Z",
+                "open_issues": 0,
                 "owner": "max-pfeiffer",
                 "repo": "uvicorn-gunicorn-poetry",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "amd64",
+                  "arm64",
+                  "asgi",
+                  "docker",
+                  "docker-image",
+                  "fastapi",
+                  "gunicorn",
+                  "poetry",
+                  "python",
+                  "uvicorn"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             }
@@ -2085,12 +3726,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Polar — A billing platform for the intelligence era",
+                "homepage": "https://polar.sh",
                 "id": 593558875,
                 "language": "Python",
-                "last_commit": "2026-08-28T23:03:52Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:32:41Z",
+                "open_issues": 107,
                 "owner": "polarsource",
                 "repo": "polar",
-                "stars": 10216
+                "stars": 10215,
+                "topics": [
+                  "digital-products",
+                  "fastapi",
+                  "merchant-of-record",
+                  "nextjs",
+                  "payments",
+                  "payments-platform",
+                  "polar",
+                  "python",
+                  "react",
+                  "saas",
+                  "subscriptions",
+                  "turborepo",
+                  "typescript",
+                  "usage-billing"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2101,12 +3762,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!",
+                "homepage": null,
                 "id": 239569600,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-03T04:04:13Z",
+                "open_issues": 0,
                 "owner": "Netflix",
                 "repo": "dispatch",
-                "stars": 6494
+                "stars": 6494,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2117,12 +3783,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Backend logic implementation for https://github.com/gothinkster/realworld with awesome FastAPI",
+                "homepage": null,
                 "id": 168056889,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-08-21T02:23:41Z",
+                "open_issues": 0,
                 "owner": "nsidnev",
                 "repo": "fastapi-realworld-example-app",
-                "stars": 3109
+                "stars": 3109,
+                "topics": [
+                  "async",
+                  "docker",
+                  "docker-compose",
+                  "fastapi",
+                  "github-actions",
+                  "postgresql",
+                  "python",
+                  "python3",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2133,12 +3814,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "View and control terminals from your browser with end-to-end encryption 🔒",
+                "homepage": null,
                 "id": 176058541,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-03-25T07:10:57Z",
+                "open_issues": 2,
                 "owner": "cs01",
                 "repo": "termpair",
-                "stars": 1779
+                "stars": 1779,
+                "topics": [
+                  "e2ee",
+                  "end-to-end-encryption",
+                  "fastapi",
+                  "pty",
+                  "rust",
+                  "terminal",
+                  "websocket",
+                  "xtermjs"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2149,12 +3844,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of FastAPI projects! :sunglasses: :rocket: ",
+                "homepage": null,
                 "id": 268461132,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-24T01:10:46Z",
+                "open_issues": 16,
                 "owner": "Kludex",
                 "repo": "awesome-fastapi-projects",
-                "stars": 1617
+                "stars": 1617,
+                "topics": [
+                  "fastapi"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2165,12 +3867,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry.",
+                "homepage": null,
                 "id": 481317492,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-12T05:52:53Z",
+                "open_issues": 6,
                 "owner": "blueswen",
                 "repo": "fastapi-observability",
-                "stars": 1115
+                "stars": 1115,
+                "topics": [
+                  "fastapi",
+                  "grafana",
+                  "loki",
+                  "observability",
+                  "openmetrics",
+                  "opentelemetry",
+                  "prometheus",
+                  "tempo"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2181,12 +3897,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bitcart is a free and open-source self-hosted payment processor for BTC, LTC, BCH, XMR, ETH, TRX, USDT and more",
+                "homepage": "https://bitcart.ai",
                 "id": 173628650,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T01:03:30Z",
+                "open_issues": 57,
                 "owner": "bitcart",
                 "repo": "bitcart",
-                "stars": 982
+                "stars": 982,
+                "topics": [
+                  "binance-smart-chain",
+                  "bitcart",
+                  "bitcoin",
+                  "bitcoin-payment-gateway",
+                  "docker",
+                  "docker-compose",
+                  "electrum",
+                  "ethereum",
+                  "ethereum-payment-gateway",
+                  "fastapi",
+                  "gateway",
+                  "hacktoberfest",
+                  "litecoin",
+                  "merchant",
+                  "monero",
+                  "payment-gateway",
+                  "payments",
+                  "python",
+                  "selfhosted",
+                  "starlette"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2197,12 +3939,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal example utilizing fastapi and celery with RabbitMQ for task queue, Redis for celery backend and flower for monitoring the celery tasks.",
+                "homepage": null,
                 "id": 180937561,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-07T13:39:52Z",
+                "open_issues": 1,
                 "owner": "GregaVrbancic",
                 "repo": "fastapi-celery",
-                "stars": 663
+                "stars": 663,
+                "topics": [
+                  "celery",
+                  "docker-compose",
+                  "fastapi",
+                  "flower",
+                  "python",
+                  "rabbitmq",
+                  "redis"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2213,12 +3968,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Backend logic implementation for https://github.com/gothinkster/realworld with awesome FastAPI",
+                "homepage": "https://fastapi-realworld-example-app.herokuapp.com/docs",
                 "id": 190858035,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-05T07:45:13Z",
+                "open_issues": 0,
                 "owner": "markqiu",
                 "repo": "fastapi-mongodb-realworld-example-app",
-                "stars": 527
+                "stars": 527,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2229,12 +3989,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSON-RPC server based on fastapi",
+                "homepage": null,
                 "id": 201516795,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-09T09:12:58Z",
+                "open_issues": 17,
                 "owner": "smagafurov",
                 "repo": "fastapi-jsonrpc",
-                "stars": 423
+                "stars": 423,
+                "topics": [
+                  "asgi",
+                  "fastapi",
+                  "json-rpc",
+                  "json-rpc-server",
+                  "openapi",
+                  "pydantic",
+                  "starlette",
+                  "swagger"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2245,12 +4019,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Futurama inspired REST and GraphQL API, blending characters exploration with real-time updates. Tech playground featuring FastAPI, Docker, and more!",
+                "homepage": "https://futuramaapi.com",
                 "id": 725719603,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-29T19:32:45Z",
+                "open_issues": 3,
                 "owner": "koldakov",
                 "repo": "futuramaapi",
-                "stars": 409
+                "stars": 409,
+                "topics": [
+                  "alembic",
+                  "async",
+                  "babel",
+                  "fastapi",
+                  "graphql",
+                  "http2",
+                  "hypercorn",
+                  "mypy",
+                  "pydantic",
+                  "pydantic-v2",
+                  "python",
+                  "ruff",
+                  "sqlalchemy",
+                  "sqlalchemy-python",
+                  "sse",
+                  "strawberry",
+                  "strawberry-graphql"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2261,12 +4058,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate your personal 8-bit avatars using Cellular Automata, a mathematical model that simulates life, survival, and extinction",
+                "homepage": "https://ljvmiranda921.github.io/sprites-as-a-service",
                 "id": 254623785,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2023-11-10T10:04:15Z",
+                "open_issues": 16,
                 "owner": "ljvmiranda921",
                 "repo": "sprites-as-a-service",
-                "stars": 395
+                "stars": 395,
+                "topics": [
+                  "avatar-generator",
+                  "cellular-automata",
+                  "fastapi",
+                  "nuxtjs",
+                  "pixel-art",
+                  "python",
+                  "sprites",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2277,12 +4088,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tiny social network (for bunnies), built with FastAPI and React+RxJs",
+                "homepage": null,
                 "id": 385152258,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-28T14:49:40Z",
+                "open_issues": 0,
                 "owner": "pietrobassi",
                 "repo": "bunnybook",
-                "stars": 393
+                "stars": 393,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2293,12 +4109,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simplify declarative cloud-native development base on FastAPI and gRPC. https://bali-framework.github.io/bali/",
+                "homepage": null,
                 "id": 303596896,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-10T09:05:06Z",
+                "open_issues": 10,
                 "owner": "bali-framework",
                 "repo": "bali",
-                "stars": 365
+                "stars": 365,
+                "topics": [
+                  "fastapi",
+                  "grpc",
+                  "micorservices",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2309,12 +4135,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple Redis Streams backed Chat app using Websockets, Asyncio and FastAPI/Starlette.",
+                "homepage": null,
                 "id": 219035044,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-15T18:20:27Z",
+                "open_issues": 0,
                 "owner": "leonh",
                 "repo": "redis-streams-fastapi-chat",
-                "stars": 353
+                "stars": 353,
+                "topics": [
+                  "asyncio",
+                  "fastapi",
+                  "redis",
+                  "redis-streams",
+                  "starlette",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2325,12 +4163,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Websocket 'broadcast' demo using FastAPI/Starlette",
+                "homepage": null,
                 "id": 170907929,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-20T02:59:54Z",
+                "open_issues": 5,
                 "owner": "kthwaite",
                 "repo": "fastapi-websocket-broadcast",
-                "stars": 225
+                "stars": 225,
+                "topics": [
+                  "async",
+                  "fastapi",
+                  "python3",
+                  "starlette",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2341,12 +4190,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown Videos lets you embed videos into GitHub markdown with ease!",
+                "homepage": "https://markdown-videos.jorgenkh.no/",
                 "id": 561869053,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-21T15:08:49Z",
+                "open_issues": 28,
                 "owner": "Snailedlt",
                 "repo": "Markdown-Videos",
-                "stars": 172
+                "stars": 172,
+                "topics": [
+                  "fastapi",
+                  "hacktoberfest",
+                  "markdown",
+                  "pillow",
+                  "pnpm",
+                  "pnpm-workspaces",
+                  "python",
+                  "python-3",
+                  "rest-api",
+                  "sass",
+                  "svelte",
+                  "thumbnail-downloader",
+                  "tool",
+                  "turborepo",
+                  "typescript",
+                  "vercel",
+                  "vercel-deployment",
+                  "vercel-serverless-functions",
+                  "vimeo-thumbnail",
+                  "youtube-thumbnail"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2357,12 +4232,30 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Slack webhooks API served by FastAPI",
+                "homepage": null,
                 "id": 208428326,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-31T06:11:06Z",
+                "open_issues": 1,
                 "owner": "uhavin",
                 "repo": "slackers",
-                "stars": 160
+                "stars": 160,
+                "topics": [
+                  "fastapi",
+                  "python3",
+                  "python36",
+                  "python37",
+                  "python38",
+                  "python39",
+                  "slack",
+                  "slack-actions",
+                  "slack-commands",
+                  "slack-events",
+                  "slack-webhook",
+                  "starlette"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2373,12 +4266,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create kubernetes clusters quickly on GCP, AWS, or Azure.",
+                "homepage": "https://astrobase.corletti.xyz",
                 "id": 296429394,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-06T21:23:12Z",
+                "open_issues": 1,
                 "owner": "anthonycorletti",
                 "repo": "astrobase",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "astrobase",
+                  "aws",
+                  "azure",
+                  "fastapi",
+                  "google-cloud",
+                  "kubernetes",
+                  "multi-cloud",
+                  "python3",
+                  "typer"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2389,12 +4297,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":school_satchel: Free & open source API service for obtaining information about +9600 universities worldwide.",
+                "homepage": "https://universitiesapi.herokuapp.com",
                 "id": 278060181,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-10T15:48:56Z",
+                "open_issues": 2,
                 "owner": "ycd",
                 "repo": "universities",
-                "stars": 154
+                "stars": 154,
+                "topics": [
+                  "api",
+                  "api-rest",
+                  "asyncpg",
+                  "fastapi",
+                  "fastapi-sqlalchemy",
+                  "postgresql",
+                  "python",
+                  "python3",
+                  "sqlalchemy",
+                  "uvicorn"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2405,12 +4329,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dead-simple mailer micro-service for static websites",
+                "homepage": "https://rclement.github.io/mailer/",
                 "id": 162722142,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-27T21:42:26Z",
+                "open_issues": 10,
                 "owner": "rclement",
                 "repo": "mailer",
-                "stars": 146
+                "stars": 146,
+                "topics": [
+                  "asgi",
+                  "docker",
+                  "fastapi",
+                  "jamstack",
+                  "mailer",
+                  "microservice",
+                  "pgp",
+                  "python",
+                  "serverless",
+                  "smtp",
+                  "vercel",
+                  "vercel-serverless"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2421,12 +4363,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fork of https://github.com/permitio/opal",
+                "homepage": "https://opal.ac",
                 "id": 436990920,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-12T12:37:38Z",
+                "open_issues": 1,
                 "owner": "authorizon",
                 "repo": "opal",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2437,12 +4384,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "API for tracking the global coronavirus (COVID-19, SARS-CoV-2) 🦠 outbreak in Togo. It's written in python using the FastAPI framework 🔥. Supports government source!",
+                "homepage": "https://coronavirus-tg-api.herokuapp.com/",
                 "id": 257404159,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-12-08T09:40:23Z",
+                "open_issues": 9,
                 "owner": "egbakou",
                 "repo": "coronavirus-tg-api",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "api",
+                  "coronavirus",
+                  "coronavirus-real-time",
+                  "coronavirus-tracker",
+                  "covid-19",
+                  "covid19",
+                  "deaths",
+                  "fastapi",
+                  "heroku",
+                  "json-api",
+                  "pip",
+                  "pipenv",
+                  "python",
+                  "python3",
+                  "recoveries",
+                  "rest-api",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2453,12 +4423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nemo Backend",
+                "homepage": "https://nemo-landing-page.netlify.app/",
                 "id": 372970987,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-15T16:00:39Z",
+                "open_issues": 1,
                 "owner": "harshitsinghai77",
                 "repo": "nemo-backend",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2469,12 +4444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OSBot helpers for FastAPI",
+                "homepage": null,
                 "id": 736670480,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-18T14:25:01Z",
+                "open_issues": 0,
                 "owner": "owasp-sbot",
                 "repo": "OSBot-Fast-API",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2485,12 +4465,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fastAPI Simple authentication & Login API using GraphQL and JWT :rocket:",
+                "homepage": null,
                 "id": 225019633,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-29T23:21:12Z",
+                "open_issues": 4,
                 "owner": "yezz123",
                 "repo": "JeffQL",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "asyncio",
+                  "docker",
+                  "fastapi",
+                  "fastapi-docker",
+                  "graphene",
+                  "graphql",
+                  "jwt",
+                  "jwt-authentication",
+                  "python",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
             },
@@ -2506,12 +4502,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FastAPI CRUD",
+                    "homepage": null,
                     "id": 232930019,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-02-05T18:18:23Z",
+                    "open_issues": 5,
                     "owner": "testdrivenio",
                     "repo": "fastapi-crud-async",
-                    "stars": 560
+                    "stars": 560,
+                    "topics": [
+                      "async-postgres",
+                      "async-python",
+                      "fastapi",
+                      "starlette"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
                 },
@@ -2522,12 +4528,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FastAPI CRUD",
+                    "homepage": null,
                     "id": 231957101,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-02-05T18:18:32Z",
+                    "open_issues": 1,
                     "owner": "testdrivenio",
                     "repo": "fastapi-crud-sync",
-                    "stars": 159
+                    "stars": 159,
+                    "topics": [
+                      "docker",
+                      "fastapi",
+                      "fastapi-sqlalchemy"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
                 }
@@ -2543,15 +4558,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:35:05.072Z",
+    "last_updated": "2026-08-29T04:13:55.087Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome things related to FastAPI",
+      "homepage": null,
       "id": 260928305,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-24T17:18:28Z",
+      "open_issues": 2,
       "owner": "mjhea0",
       "repo": "awesome-fastapi",
-      "stars": 11634
+      "stars": 11634,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "fastapi",
+        "starlette"
+      ]
     },
     "original_repository_sha": "38e525ea955795e36aa54daf28fd923f72a511b8",
     "enhanced_repository": "enhansome/enhansome-fastapi",
