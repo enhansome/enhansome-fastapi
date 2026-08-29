@@ -179,7 +179,7 @@
                 "open_issues": 0,
                 "owner": "vsdudakov",
                 "repo": "fastadmin",
-                "stars": 325,
+                "stars": 326,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -1212,8 +1212,8 @@
                 "id": 680634709,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-28T20:00:09Z",
-                "open_issues": 20,
+                "last_commit": "2026-08-29T17:40:29Z",
+                "open_issues": 18,
                 "owner": "maldoinc",
                 "repo": "wireup",
                 "stars": 431,
@@ -1603,7 +1603,7 @@
                 "id": 162690887,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-28T23:49:49Z",
+                "last_commit": "2026-08-29T17:06:38Z",
                 "open_issues": 308,
                 "owner": "strawberry-graphql",
                 "repo": "strawberry",
@@ -1746,7 +1746,7 @@
                 "open_issues": 14,
                 "owner": "benavlabs",
                 "repo": "fastcrud",
-                "stars": 1572,
+                "stars": 1573,
                 "topics": [
                   "async",
                   "backend",
@@ -1800,7 +1800,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T18:55:39Z",
-                "open_issues": 654,
+                "open_issues": 655,
                 "owner": "open-telemetry",
                 "repo": "opentelemetry-python-contrib",
                 "stars": 1090,
@@ -1824,7 +1824,7 @@
                 "open_issues": 31,
                 "owner": "long2ice",
                 "repo": "fastapi-limiter",
-                "stars": 789,
+                "stars": 788,
                 "topics": [
                   "asyncio",
                   "fastapi",
@@ -2220,7 +2220,7 @@
                 "id": 661287015,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T02:06:03Z",
+                "last_commit": "2026-08-29T09:58:55Z",
                 "open_issues": 5,
                 "owner": "apitally",
                 "repo": "apitally-py",
@@ -2615,10 +2615,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-26T17:54:56Z",
-                "open_issues": 79,
+                "open_issues": 81,
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101913,
+                "stars": 101923,
                 "topics": [
                   "api",
                   "async",
@@ -2667,7 +2667,7 @@
                 "open_issues": 16,
                 "owner": "zhanymkanov",
                 "repo": "fastapi-best-practices",
-                "stars": 17984,
+                "stars": 17987,
                 "topics": [
                   "best-practices",
                   "fastapi"
@@ -2948,7 +2948,7 @@
                 "open_issues": 8,
                 "owner": "fastapi",
                 "repo": "full-stack-fastapi-template",
-                "stars": 45226,
+                "stars": 45230,
                 "topics": [
                   "docker",
                   "docker-compose",
@@ -2990,7 +2990,7 @@
                 "open_issues": 39,
                 "owner": "s3rius",
                 "repo": "FastAPI-template",
-                "stars": 2824,
+                "stars": 2825,
                 "topics": [
                   "aerich",
                   "alembic",
@@ -3137,7 +3137,7 @@
                 "open_issues": 0,
                 "owner": "rednafi",
                 "repo": "fastapi-nano",
-                "stars": 1034,
+                "stars": 1035,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -3731,11 +3731,11 @@
                 "id": 593558875,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T00:32:41Z",
-                "open_issues": 107,
+                "last_commit": "2026-08-29T14:20:59Z",
+                "open_issues": 106,
                 "owner": "polarsource",
                 "repo": "polar",
-                "stars": 10215,
+                "stars": 10217,
                 "topics": [
                   "digital-products",
                   "fastapi",
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:13:55.087Z",
+    "last_updated": "2026-08-29T17:45:32.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to FastAPI",
@@ -4567,10 +4567,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-24T17:18:28Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "mjhea0",
       "repo": "awesome-fastapi",
-      "stars": 11634,
+      "stars": 11633,
       "topics": [
         "awesome",
         "awesome-list",
