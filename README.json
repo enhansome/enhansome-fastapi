@@ -46,11 +46,11 @@
                 "id": 440814573,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-17T14:01:45Z",
-                "open_issues": 53,
+                "last_commit": "2026-09-20T16:01:03Z",
+                "open_issues": 35,
                 "owner": "smithyhq",
                 "repo": "sqladmin",
-                "stars": 2826,
+                "stars": 2829,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -112,7 +112,7 @@
                 "open_issues": 0,
                 "owner": "jowilf",
                 "repo": "starlette-admin",
-                "stars": 1036,
+                "stars": 1037,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -141,7 +141,7 @@
                 "open_issues": 39,
                 "owner": "piccolo-orm",
                 "repo": "piccolo_admin",
-                "stars": 467,
+                "stars": 466,
                 "topics": [
                   "admin",
                   "asgi",
@@ -225,7 +225,7 @@
                 "open_issues": 10,
                 "owner": "fastapi-users",
                 "repo": "fastapi-users",
-                "stars": 6244,
+                "stars": 6242,
                 "topics": [
                   "async",
                   "asyncio",
@@ -250,11 +250,11 @@
                 "id": 399171157,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-18T01:33:05Z",
+                "last_commit": "2026-09-19T23:06:52Z",
                 "open_issues": 4,
                 "owner": "yezz123",
                 "repo": "authx",
-                "stars": 1197,
+                "stars": 1196,
                 "topics": [
                   "authentification",
                   "authorization",
@@ -284,7 +284,7 @@
                 "open_issues": 61,
                 "owner": "IndominusByte",
                 "repo": "fastapi-jwt-auth",
-                "stars": 832,
+                "stars": 831,
                 "topics": [
                   "authorization",
                   "fastapi",
@@ -312,7 +312,7 @@
                 "open_issues": 1,
                 "owner": "maxrdu",
                 "repo": "fastapi_login",
-                "stars": 818,
+                "stars": 817,
                 "topics": [
                   "fastapi",
                   "plugin",
@@ -337,7 +337,7 @@
                 "open_issues": 3,
                 "owner": "vibber-ai",
                 "repo": "fastapi-azure-auth",
-                "stars": 681,
+                "stars": 680,
                 "topics": [
                   "anyio",
                   "asgi",
@@ -376,7 +376,7 @@
                 "open_issues": 17,
                 "owner": "holgi",
                 "repo": "fastapi-permissions",
-                "stars": 652,
+                "stars": 651,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -397,7 +397,7 @@
                 "open_issues": 1,
                 "owner": "mrtolkien",
                 "repo": "fastapi_simple_security",
-                "stars": 466,
+                "stars": 465,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -418,7 +418,7 @@
                 "open_issues": 37,
                 "owner": "tokusumi",
                 "repo": "fastapi-cloudauth",
-                "stars": 434,
+                "stars": 433,
                 "topics": [
                   "auth0",
                   "aws-cognito",
@@ -447,7 +447,7 @@
                 "open_issues": 5,
                 "owner": "dmontagu",
                 "repo": "fastapi-auth",
-                "stars": 271,
+                "stars": 270,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -468,7 +468,7 @@
                 "open_issues": 2,
                 "owner": "jacobsvante",
                 "repo": "fastapi-security",
-                "stars": 235,
+                "stars": 234,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -560,7 +560,7 @@
                 "open_issues": 9,
                 "owner": "TypeError",
                 "repo": "secure",
-                "stars": 1059,
+                "stars": 1062,
                 "topics": [
                   "asgi",
                   "content-security-policy",
@@ -591,8 +591,8 @@
                 "id": 838357935,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-06T08:21:30Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-20T09:21:42Z",
+                "open_issues": 2,
                 "owner": "rennf93",
                 "repo": "fastapi-guard",
                 "stars": 820,
@@ -638,7 +638,7 @@
                         "open_issues": 5,
                         "owner": "leosussan",
                         "repo": "fastapi-gino-arq-uvicorn",
-                        "stars": 552,
+                        "stars": 551,
                         "topics": [
                           "api",
                           "arq",
@@ -671,7 +671,7 @@
                     "open_issues": 54,
                     "owner": "python-gino",
                     "repo": "gino",
-                    "stars": 2790,
+                    "stars": 2789,
                     "topics": [
                       "asyncio",
                       "asyncpg",
@@ -705,7 +705,7 @@
                         "open_issues": 1,
                         "owner": "piccolo-orm",
                         "repo": "piccolo_examples",
-                        "stars": 103,
+                        "stars": 102,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:35:05.072Z"
@@ -722,7 +722,7 @@
                     "open_issues": 47,
                     "owner": "piccolo-orm",
                     "repo": "piccolo",
-                    "stars": 1944,
+                    "stars": 1943,
                     "topics": [
                       "asgi",
                       "asyncio",
@@ -757,7 +757,7 @@
                     "open_issues": 21,
                     "owner": "encode",
                     "repo": "orm",
-                    "stars": 1857,
+                    "stars": 1856,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
@@ -778,7 +778,7 @@
                     "open_issues": 20,
                     "owner": "mfreeborn",
                     "repo": "fastapi-sqlalchemy",
-                    "stars": 754,
+                    "stars": 752,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
@@ -795,11 +795,11 @@
                     "id": 298082175,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-19T16:07:31Z",
+                    "last_commit": "2026-09-19T20:07:28Z",
                     "open_issues": 13,
                     "owner": "dialoguemd",
                     "repo": "fastapi-sqla",
-                    "stars": 448,
+                    "stars": 447,
                     "topics": [
                       "fastapi",
                       "fastapi-sqla",
@@ -826,7 +826,7 @@
                     "open_issues": 2,
                     "owner": "dymmond",
                     "repo": "edgy",
-                    "stars": 442,
+                    "stars": 441,
                     "topics": [
                       "anyio",
                       "asyncio",
@@ -863,7 +863,7 @@
                     "open_issues": 0,
                     "owner": "tarsil",
                     "repo": "saffier",
-                    "stars": 146,
+                    "stars": 145,
                     "topics": [
                       "asyncio",
                       "database",
@@ -898,7 +898,7 @@
                     "open_issues": 1,
                     "owner": "Ignisor",
                     "repo": "FastAPIwee",
-                    "stars": 102,
+                    "stars": 101,
                     "topics": [
                       "fastapi",
                       "peewee",
@@ -920,7 +920,7 @@
                     "id": 820593126,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-19T02:12:16Z",
+                    "last_commit": "2026-09-20T17:23:41Z",
                     "open_issues": 2,
                     "owner": "hadrien",
                     "repo": "FastSQLA",
@@ -960,7 +960,7 @@
                         "open_issues": 23,
                         "owner": "tortoise",
                         "repo": "aerich",
-                        "stars": 1083,
+                        "stars": 1082,
                         "topics": [
                           "database-migrations",
                           "migration-tool",
@@ -997,7 +997,7 @@
                     "open_issues": 131,
                     "owner": "encode",
                     "repo": "databases",
-                    "stars": 3991,
+                    "stars": 3990,
                     "topics": [
                       "asyncio",
                       "mysql",
@@ -1024,7 +1024,7 @@
                     "open_issues": 233,
                     "owner": "kayak",
                     "repo": "pypika",
-                    "stars": 2926,
+                    "stars": 2925,
                     "topics": [
                       "builder",
                       "data",
@@ -1054,7 +1054,7 @@
                     "open_issues": 15,
                     "owner": "CanopyTax",
                     "repo": "asyncpgsa",
-                    "stars": 506,
+                    "stars": 505,
                     "topics": [
                       "asyncio",
                       "postgres",
@@ -1117,7 +1117,7 @@
                     "open_issues": 80,
                     "owner": "BeanieODM",
                     "repo": "beanie",
-                    "stars": 2700,
+                    "stars": 2699,
                     "topics": [
                       "async",
                       "asynchronous",
@@ -1148,10 +1148,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-05-29T11:20:50Z",
-                    "open_issues": 318,
+                    "open_issues": 321,
                     "owner": "pynamodb",
                     "repo": "PynamoDB",
-                    "stars": 2647,
+                    "stars": 2646,
                     "topics": [
                       "aws",
                       "dynamodb",
@@ -1183,7 +1183,7 @@
                     "open_issues": 6,
                     "owner": "tiangolo",
                     "repo": "pydantic-sqlalchemy",
-                    "stars": 1408,
+                    "stars": 1407,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:05.072Z"
@@ -1216,7 +1216,7 @@
                 "open_issues": 18,
                 "owner": "maldoinc",
                 "repo": "wireup",
-                "stars": 436,
+                "stars": 435,
                 "topics": [
                   "aiohttp",
                   "async",
@@ -1251,7 +1251,7 @@
                 "id": 879368249,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T11:04:24Z",
+                "last_commit": "2026-09-20T10:59:08Z",
                 "open_issues": 7,
                 "owner": "modern-python",
                 "repo": "modern-di",
@@ -1293,7 +1293,7 @@
                 "open_issues": 22,
                 "owner": "ycd",
                 "repo": "manage-fastapi",
-                "stars": 1906,
+                "stars": 1905,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -1327,7 +1327,7 @@
                 "open_issues": 47,
                 "owner": "koxudaxi",
                 "repo": "fastapi-code-generator",
-                "stars": 1406,
+                "stars": 1405,
                 "topics": [
                   "fastapi",
                   "generator",
@@ -1354,7 +1354,7 @@
                 "open_issues": 37,
                 "owner": "DeanWay",
                 "repo": "fastapi-versioning",
-                "stars": 847,
+                "stars": 845,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -1375,7 +1375,7 @@
                 "open_issues": 35,
                 "owner": "fastapi-mvc",
                 "repo": "fastapi-mvc",
-                "stars": 804,
+                "stars": 803,
                 "topics": [
                   "fastapi",
                   "fastapi-boilerplate",
@@ -1409,7 +1409,7 @@
                 "open_issues": 11,
                 "owner": "dmontagu",
                 "repo": "fastapi_client",
-                "stars": 425,
+                "stars": 424,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -1430,7 +1430,7 @@
                 "open_issues": 1,
                 "owner": "sunhailin-Leo",
                 "repo": "fastapi_profiler",
-                "stars": 366,
+                "stars": 365,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -1451,7 +1451,7 @@
                 "open_issues": 1,
                 "owner": "florimondmanca",
                 "repo": "msgpack-asgi",
-                "stars": 276,
+                "stars": 275,
                 "topics": [
                   "asgi",
                   "fastapi",
@@ -1481,7 +1481,7 @@
                 "open_issues": 11,
                 "owner": "Invictify",
                 "repo": "Jupter-Notebook-REST-API",
-                "stars": 163,
+                "stars": 162,
                 "topics": [
                   "data-science",
                   "data-science-pipelines",
@@ -1511,7 +1511,7 @@
                 "open_issues": 0,
                 "owner": "mdconaway",
                 "repo": "fastapi-cruddy-framework",
-                "stars": 128,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -1575,7 +1575,7 @@
                 "open_issues": 4,
                 "owner": "sabuhish",
                 "repo": "fastapi-mail",
-                "stars": 1011,
+                "stars": 1009,
                 "topics": [
                   "fastapi",
                   "fastapi-mail",
@@ -1604,10 +1604,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-19T16:19:48Z",
-                "open_issues": 307,
+                "open_issues": 308,
                 "owner": "strawberry-graphql",
                 "repo": "strawberry",
-                "stars": 4719,
+                "stars": 4718,
                 "topics": [
                   "asgi",
                   "asyncio",
@@ -1642,7 +1642,7 @@
                 "open_issues": 75,
                 "owner": "fastapiutils",
                 "repo": "fastapi-utils",
-                "stars": 2310,
+                "stars": 2309,
                 "topics": [
                   "fastapi"
                 ]
@@ -1665,7 +1665,7 @@
                 "open_issues": 117,
                 "owner": "laurentS",
                 "repo": "slowapi",
-                "stars": 2061,
+                "stars": 2060,
                 "topics": [
                   "asgi",
                   "fastapi",
@@ -1693,7 +1693,7 @@
                 "open_issues": 111,
                 "owner": "long2ice",
                 "repo": "fastapi-cache",
-                "stars": 1867,
+                "stars": 1866,
                 "topics": [
                   "cache",
                   "fastapi",
@@ -1719,7 +1719,7 @@
                 "open_issues": 6,
                 "owner": "uriyyo",
                 "repo": "fastapi-pagination",
-                "stars": 1678,
+                "stars": 1677,
                 "topics": [
                   "fastapi",
                   "fastapi-pagination",
@@ -1746,7 +1746,7 @@
                 "open_issues": 11,
                 "owner": "benavlabs",
                 "repo": "fastcrud",
-                "stars": 1591,
+                "stars": 1590,
                 "topics": [
                   "async",
                   "backend",
@@ -1776,7 +1776,7 @@
                 "open_issues": 67,
                 "owner": "trallnag",
                 "repo": "prometheus-fastapi-instrumentator",
-                "stars": 1487,
+                "stars": 1486,
                 "topics": [
                   "exporter",
                   "fastapi",
@@ -1800,10 +1800,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T19:24:44Z",
-                "open_issues": 684,
+                "open_issues": 687,
                 "owner": "open-telemetry",
                 "repo": "opentelemetry-python-contrib",
-                "stars": 1095,
+                "stars": 1097,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -1824,7 +1824,7 @@
                 "open_issues": 31,
                 "owner": "long2ice",
                 "repo": "fastapi-limiter",
-                "stars": 789,
+                "stars": 788,
                 "topics": [
                   "asyncio",
                   "fastapi",
@@ -1849,7 +1849,7 @@
                 "open_issues": 15,
                 "owner": "identixone",
                 "repo": "fastapi_contrib",
-                "stars": 737,
+                "stars": 736,
                 "topics": [
                   "fastapi",
                   "fastapi-template",
@@ -1878,7 +1878,7 @@
                 "open_issues": 2,
                 "owner": "snok",
                 "repo": "asgi-correlation-id",
-                "stars": 645,
+                "stars": 644,
                 "topics": [
                   "celery",
                   "correlation-id",
@@ -1907,7 +1907,7 @@
                 "open_issues": 5,
                 "owner": "madkote",
                 "repo": "fastapi-plugins",
-                "stars": 609,
+                "stars": 608,
                 "topics": [
                   "aiojobs",
                   "aiomcache",
@@ -1946,7 +1946,7 @@
                 "open_issues": 11,
                 "owner": "melvinkcx",
                 "repo": "fastapi-events",
-                "stars": 608,
+                "stars": 607,
                 "topics": [
                   "asgi",
                   "events",
@@ -1973,7 +1973,7 @@
                 "open_issues": 8,
                 "owner": "tomwojcik",
                 "repo": "starlette-context",
-                "stars": 608,
+                "stars": 607,
                 "topics": [
                   "fastapi",
                   "middleware",
@@ -2001,7 +2001,7 @@
                 "open_issues": 23,
                 "owner": "pyropy",
                 "repo": "fastapi-socketio",
-                "stars": 420,
+                "stars": 419,
                 "topics": [
                   "fastapi",
                   "fastapi-socketio",
@@ -2028,7 +2028,7 @@
                 "open_issues": 11,
                 "owner": "stephenhillier",
                 "repo": "starlette_exporter",
-                "stars": 412,
+                "stars": 411,
                 "topics": [
                   "asgi",
                   "fastapi",
@@ -2055,7 +2055,7 @@
                 "open_issues": 5,
                 "owner": "sabuhish",
                 "repo": "fastapi-mqtt",
-                "stars": 386,
+                "stars": 385,
                 "topics": [
                   "asynchronous",
                   "fastapi",
@@ -2082,7 +2082,7 @@
                 "open_issues": 17,
                 "owner": "perdy",
                 "repo": "starlette-prometheus",
-                "stars": 375,
+                "stars": 374,
                 "topics": [
                   "asgi",
                   "metrics",
@@ -2138,7 +2138,7 @@
                 "open_issues": 10,
                 "owner": "comeuplater",
                 "repo": "fastapi_cache",
-                "stars": 304,
+                "stars": 303,
                 "topics": [
                   "cache",
                   "fastapi",
@@ -2165,7 +2165,7 @@
                 "open_issues": 2,
                 "owner": "JasperSui",
                 "repo": "fastapi-injectable",
-                "stars": 296,
+                "stars": 295,
                 "topics": [
                   "background-tasks",
                   "celery",
@@ -2193,11 +2193,11 @@
                 "id": 661287015,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-18T13:37:27Z",
+                "last_commit": "2026-09-20T11:32:52Z",
                 "open_issues": 1,
                 "owner": "apitally",
                 "repo": "apitally-py",
-                "stars": 225,
+                "stars": 224,
                 "topics": [
                   "api",
                   "api-analytics",
@@ -2235,7 +2235,7 @@
                 "open_issues": 1,
                 "owner": "mikeckennedy",
                 "repo": "fastapi-chameleon",
-                "stars": 225,
+                "stars": 224,
                 "topics": [
                   "chameleon",
                   "fastapi",
@@ -2262,7 +2262,7 @@
                 "open_issues": 4,
                 "owner": "yezz123",
                 "repo": "fastango",
-                "stars": 195,
+                "stars": 194,
                 "topics": [
                   "cli",
                   "fastapi",
@@ -2289,7 +2289,7 @@
                 "open_issues": 1,
                 "owner": "AGeekInside",
                 "repo": "fastapi-jinja",
-                "stars": 156,
+                "stars": 155,
                 "topics": [
                   "hacktoberfest",
                   "hacktoberfest2020"
@@ -2313,7 +2313,7 @@
                 "open_issues": 4,
                 "owner": "Pytlicek",
                 "repo": "fastapi-featureflags",
-                "stars": 151,
+                "stars": 150,
                 "topics": [
                   "api",
                   "fastapi",
@@ -2346,7 +2346,7 @@
                 "open_issues": 1,
                 "owner": "acidjunk",
                 "repo": "starlette-opentracing",
-                "stars": 147,
+                "stars": 146,
                 "topics": [
                   "fastapi",
                   "starlette",
@@ -2371,7 +2371,7 @@
                 "open_issues": 4,
                 "owner": "danielhasan1",
                 "repo": "fastapi-listing",
-                "stars": 136,
+                "stars": 135,
                 "topics": [
                   "fastapi",
                   "json",
@@ -2400,7 +2400,7 @@
                 "open_issues": 2,
                 "owner": "sasha-tkachev",
                 "repo": "fastapi-cloudevents",
-                "stars": 118,
+                "stars": 117,
                 "topics": [
                   "cloudevents",
                   "event",
@@ -2433,7 +2433,7 @@
                 "open_issues": 2,
                 "owner": "skallfass",
                 "repo": "fastapi_serviceutils",
-                "stars": 115,
+                "stars": 114,
                 "topics": [
                   "fastapi",
                   "python",
@@ -2458,7 +2458,7 @@
                 "open_issues": 7,
                 "owner": "wesdu",
                 "repo": "fastapi-opentracing",
-                "stars": 105,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -2479,7 +2479,7 @@
                 "open_issues": 0,
                 "owner": "authorizon",
                 "repo": "fastapi_websocket_pubsub",
-                "stars": 98,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -2500,7 +2500,7 @@
                 "open_issues": 10,
                 "owner": "BeeMyDesk",
                 "repo": "prerender-python-starlette",
-                "stars": 97,
+                "stars": 96,
                 "topics": [
                   "asgi",
                   "fastapi",
@@ -2528,7 +2528,7 @@
                 "open_issues": 0,
                 "owner": "authorizon",
                 "repo": "fastapi_websocket_rpc",
-                "stars": 87,
+                "stars": 86,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -2615,10 +2615,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-18T21:24:37Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 102464,
+                "stars": 102484,
                 "topics": [
                   "api",
                   "async",
@@ -2733,7 +2733,7 @@
                 "open_issues": 1,
                 "owner": "faststream-community",
                 "repo": "fastapi-dishka-faststream",
-                "stars": 322,
+                "stars": 321,
                 "topics": [
                   "dishka",
                   "fastapi",
@@ -2801,7 +2801,7 @@
                 "open_issues": 495,
                 "owner": "aws",
                 "repo": "chalice",
-                "stars": 11058,
+                "stars": 11057,
                 "topics": [
                   "aws",
                   "aws-apigateway",
@@ -2833,7 +2833,7 @@
                 "open_issues": 28,
                 "owner": "Snailedlt",
                 "repo": "Markdown-Videos",
-                "stars": 172,
+                "stars": 171,
                 "topics": [
                   "fastapi",
                   "hacktoberfest",
@@ -2875,7 +2875,7 @@
                 "open_issues": 0,
                 "owner": "anthonycorletti",
                 "repo": "cloudrun-fastapi",
-                "stars": 283,
+                "stars": 282,
                 "topics": [
                   "alembic",
                   "docker",
@@ -2945,10 +2945,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-18T17:40:40Z",
-                "open_issues": 13,
+                "open_issues": 12,
                 "owner": "fastapi",
                 "repo": "full-stack-fastapi-template",
-                "stars": 45640,
+                "stars": 45650,
                 "topics": [
                   "docker",
                   "docker-compose",
@@ -2990,7 +2990,7 @@
                 "open_issues": 39,
                 "owner": "s3rius",
                 "repo": "FastAPI-template",
-                "stars": 2829,
+                "stars": 2828,
                 "topics": [
                   "aerich",
                   "alembic",
@@ -3031,7 +3031,7 @@
                 "open_issues": 42,
                 "owner": "Buuntu",
                 "repo": "fastapi-react",
-                "stars": 2590,
+                "stars": 2588,
                 "topics": [
                   "boilerplate",
                   "cookiecutter",
@@ -3066,7 +3066,7 @@
                 "open_issues": 120,
                 "owner": "openapi-generators",
                 "repo": "openapi-python-client",
-                "stars": 1993,
+                "stars": 1992,
                 "topics": [
                   "fastapi",
                   "generator",
@@ -3098,7 +3098,7 @@
                 "open_issues": 9,
                 "owner": "vargasjona",
                 "repo": "fastapi-alembic-sqlmodel-async",
-                "stars": 1266,
+                "stars": 1265,
                 "topics": [
                   "alembic",
                   "asyncio",
@@ -3137,7 +3137,7 @@
                 "open_issues": 0,
                 "owner": "rednafi",
                 "repo": "fastapi-nano",
-                "stars": 1032,
+                "stars": 1031,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -3158,7 +3158,7 @@
                 "open_issues": 5,
                 "owner": "mongodb-labs",
                 "repo": "full-stack-fastapi-mongodb",
-                "stars": 818,
+                "stars": 817,
                 "topics": [
                   "docker",
                   "docker-compose",
@@ -3196,7 +3196,7 @@
                 "open_issues": 1,
                 "owner": "arthurhenrique",
                 "repo": "cookiecutter-fastapi",
-                "stars": 707,
+                "stars": 706,
                 "topics": [
                   "ai",
                   "black",
@@ -3237,7 +3237,7 @@
                 "open_issues": 7,
                 "owner": "microsoft",
                 "repo": "cookiecutter-spacy-fastapi",
-                "stars": 614,
+                "stars": 613,
                 "topics": [
                   "azure-search",
                   "cognitive-search",
@@ -3264,7 +3264,7 @@
                 "open_issues": 8,
                 "owner": "eightBEC",
                 "repo": "fastapi-ml-skeleton",
-                "stars": 604,
+                "stars": 603,
                 "topics": [
                   "fastapi",
                   "machine-learning",
@@ -3291,7 +3291,7 @@
                 "open_issues": 5,
                 "owner": "leosussan",
                 "repo": "fastapi-gino-arq-uvicorn",
-                "stars": 552,
+                "stars": 551,
                 "topics": [
                   "api",
                   "arq",
@@ -3328,7 +3328,7 @@
                 "open_issues": 0,
                 "owner": "anthonycorletti",
                 "repo": "cloudrun-fastapi",
-                "stars": 283,
+                "stars": 282,
                 "topics": [
                   "alembic",
                   "docker",
@@ -3360,7 +3360,7 @@
                 "open_issues": 0,
                 "owner": "prostomarkeloff",
                 "repo": "fastapi-tortoise",
-                "stars": 221,
+                "stars": 220,
                 "topics": [
                   "asyncio",
                   "fastapi",
@@ -3425,7 +3425,7 @@
                 "open_issues": 0,
                 "owner": "mirzadelic",
                 "repo": "fastapi-starter-project",
-                "stars": 212,
+                "stars": 211,
                 "topics": [
                   "alembic",
                   "docker",
@@ -3451,7 +3451,7 @@
                 "open_issues": 2,
                 "owner": "anthonycorletti",
                 "repo": "firestore-fastapi",
-                "stars": 129,
+                "stars": 128,
                 "topics": [
                   "docker",
                   "fastapi",
@@ -3479,7 +3479,7 @@
                 "open_issues": 5,
                 "owner": "max-pfeiffer",
                 "repo": "uvicorn-poetry-fastapi-project-template",
-                "stars": 101,
+                "stars": 100,
                 "topics": [
                   "amd64",
                   "arm64",
@@ -3511,7 +3511,7 @@
                 "open_issues": 0,
                 "owner": "vutran1710",
                 "repo": "YeomanPywork",
-                "stars": 92,
+                "stars": 91,
                 "topics": [
                   "fastapi",
                   "generator",
@@ -3590,7 +3590,7 @@
                 "open_issues": 1,
                 "owner": "tiangolo",
                 "repo": "uvicorn-gunicorn-fastapi-docker",
-                "stars": 2914,
+                "stars": 2913,
                 "topics": [
                   "asgi",
                   "async",
@@ -3630,7 +3630,7 @@
                 "open_issues": 0,
                 "owner": "br3ndonland",
                 "repo": "inboard",
-                "stars": 318,
+                "stars": 317,
                 "topics": [
                   "actions",
                   "asgi",
@@ -3664,7 +3664,7 @@
                 "open_issues": 6,
                 "owner": "max-pfeiffer",
                 "repo": "uvicorn-poetry",
-                "stars": 136,
+                "stars": 135,
                 "topics": [
                   "amd64",
                   "arm64",
@@ -3696,7 +3696,7 @@
                 "open_issues": 0,
                 "owner": "max-pfeiffer",
                 "repo": "uvicorn-gunicorn-poetry",
-                "stars": 127,
+                "stars": 126,
                 "topics": [
                   "amd64",
                   "arm64",
@@ -3731,11 +3731,11 @@
                 "id": 593558875,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T13:33:00Z",
-                "open_issues": 122,
+                "last_commit": "2026-09-20T09:03:05Z",
+                "open_issues": 123,
                 "owner": "polarsource",
                 "repo": "polar",
-                "stars": 10274,
+                "stars": 10273,
                 "topics": [
                   "digital-products",
                   "fastapi",
@@ -3771,7 +3771,7 @@
                 "open_issues": 0,
                 "owner": "Netflix",
                 "repo": "dispatch",
-                "stars": 6494,
+                "stars": 6493,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -3792,7 +3792,7 @@
                 "open_issues": 0,
                 "owner": "nsidnev",
                 "repo": "fastapi-realworld-example-app",
-                "stars": 3104,
+                "stars": 3103,
                 "topics": [
                   "async",
                   "docker",
@@ -3823,7 +3823,7 @@
                 "open_issues": 2,
                 "owner": "cs01",
                 "repo": "termpair",
-                "stars": 1779,
+                "stars": 1778,
                 "topics": [
                   "e2ee",
                   "end-to-end-encryption",
@@ -3853,7 +3853,7 @@
                 "open_issues": 16,
                 "owner": "Kludex",
                 "repo": "awesome-fastapi-projects",
-                "stars": 1622,
+                "stars": 1620,
                 "topics": [
                   "fastapi"
                 ]
@@ -3876,7 +3876,7 @@
                 "open_issues": 6,
                 "owner": "blueswen",
                 "repo": "fastapi-observability",
-                "stars": 1117,
+                "stars": 1116,
                 "topics": [
                   "fastapi",
                   "grafana",
@@ -3906,7 +3906,7 @@
                 "open_issues": 58,
                 "owner": "bitcart",
                 "repo": "bitcart",
-                "stars": 988,
+                "stars": 987,
                 "topics": [
                   "binance-smart-chain",
                   "bitcart",
@@ -3948,7 +3948,7 @@
                 "open_issues": 1,
                 "owner": "GregaVrbancic",
                 "repo": "fastapi-celery",
-                "stars": 663,
+                "stars": 662,
                 "topics": [
                   "celery",
                   "docker-compose",
@@ -3977,7 +3977,7 @@
                 "open_issues": 0,
                 "owner": "markqiu",
                 "repo": "fastapi-mongodb-realworld-example-app",
-                "stars": 527,
+                "stars": 526,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -3998,7 +3998,7 @@
                 "open_issues": 7,
                 "owner": "smagafurov",
                 "repo": "fastapi-jsonrpc",
-                "stars": 422,
+                "stars": 421,
                 "topics": [
                   "asgi",
                   "fastapi",
@@ -4028,7 +4028,7 @@
                 "open_issues": 3,
                 "owner": "koldakov",
                 "repo": "futuramaapi",
-                "stars": 416,
+                "stars": 414,
                 "topics": [
                   "alembic",
                   "async",
@@ -4067,7 +4067,7 @@
                 "open_issues": 16,
                 "owner": "ljvmiranda921",
                 "repo": "sprites-as-a-service",
-                "stars": 396,
+                "stars": 395,
                 "topics": [
                   "avatar-generator",
                   "cellular-automata",
@@ -4097,7 +4097,7 @@
                 "open_issues": 0,
                 "owner": "pietrobassi",
                 "repo": "bunnybook",
-                "stars": 394,
+                "stars": 393,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -4118,7 +4118,7 @@
                 "open_issues": 10,
                 "owner": "bali-framework",
                 "repo": "bali",
-                "stars": 364,
+                "stars": 363,
                 "topics": [
                   "fastapi",
                   "grpc",
@@ -4144,7 +4144,7 @@
                 "open_issues": 0,
                 "owner": "leonh",
                 "repo": "redis-streams-fastapi-chat",
-                "stars": 353,
+                "stars": 351,
                 "topics": [
                   "asyncio",
                   "fastapi",
@@ -4172,7 +4172,7 @@
                 "open_issues": 5,
                 "owner": "kthwaite",
                 "repo": "fastapi-websocket-broadcast",
-                "stars": 224,
+                "stars": 223,
                 "topics": [
                   "async",
                   "fastapi",
@@ -4199,7 +4199,7 @@
                 "open_issues": 28,
                 "owner": "Snailedlt",
                 "repo": "Markdown-Videos",
-                "stars": 172,
+                "stars": 171,
                 "topics": [
                   "fastapi",
                   "hacktoberfest",
@@ -4241,7 +4241,7 @@
                 "open_issues": 1,
                 "owner": "uhavin",
                 "repo": "slackers",
-                "stars": 160,
+                "stars": 159,
                 "topics": [
                   "fastapi",
                   "python3",
@@ -4275,7 +4275,7 @@
                 "open_issues": 1,
                 "owner": "anthonycorletti",
                 "repo": "astrobase",
-                "stars": 155,
+                "stars": 154,
                 "topics": [
                   "astrobase",
                   "aws",
@@ -4306,7 +4306,7 @@
                 "open_issues": 2,
                 "owner": "ycd",
                 "repo": "universities",
-                "stars": 155,
+                "stars": 154,
                 "topics": [
                   "api",
                   "api-rest",
@@ -4338,7 +4338,7 @@
                 "open_issues": 0,
                 "owner": "rclement",
                 "repo": "mailer",
-                "stars": 146,
+                "stars": 145,
                 "topics": [
                   "asgi",
                   "docker",
@@ -4372,7 +4372,7 @@
                 "open_issues": 1,
                 "owner": "authorizon",
                 "repo": "opal",
-                "stars": 98,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -4393,7 +4393,7 @@
                 "open_issues": 9,
                 "owner": "egbakou",
                 "repo": "coronavirus-tg-api",
-                "stars": 96,
+                "stars": 95,
                 "topics": [
                   "api",
                   "coronavirus",
@@ -4432,7 +4432,7 @@
                 "open_issues": 1,
                 "owner": "harshitsinghai77",
                 "repo": "nemo-backend",
-                "stars": 96,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -4453,7 +4453,7 @@
                 "open_issues": 0,
                 "owner": "owasp-sbot",
                 "repo": "OSBot-Fast-API",
-                "stars": 83,
+                "stars": 82,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:05.072Z"
@@ -4511,7 +4511,7 @@
                     "open_issues": 5,
                     "owner": "testdrivenio",
                     "repo": "fastapi-crud-async",
-                    "stars": 561,
+                    "stars": 560,
                     "topics": [
                       "async-postgres",
                       "async-python",
@@ -4537,7 +4537,7 @@
                     "open_issues": 1,
                     "owner": "testdrivenio",
                     "repo": "fastapi-crud-sync",
-                    "stars": 159,
+                    "stars": 158,
                     "topics": [
                       "docker",
                       "fastapi",
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:20:00.625Z",
+    "last_updated": "2026-09-20T17:32:01.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to FastAPI",
@@ -4570,7 +4570,7 @@
       "open_issues": 8,
       "owner": "mjhea0",
       "repo": "awesome-fastapi",
-      "stars": 11670,
+      "stars": 11671,
       "topics": [
         "awesome",
         "awesome-list",
