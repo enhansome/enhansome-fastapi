@@ -179,7 +179,7 @@
                 "open_issues": 0,
                 "owner": "vsdudakov",
                 "repo": "fastadmin",
-                "stars": 331,
+                "stars": 332,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -625,7 +625,7 @@
                     {
                       "node_type": "item",
                       "title": "FastAPI Example",
-                      "description": null,
+                      "description": "leosussan/fastapi-gino-arq-uvicorn",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -671,7 +671,7 @@
                     "open_issues": 54,
                     "owner": "python-gino",
                     "repo": "gino",
-                    "stars": 2790,
+                    "stars": 2789,
                     "topics": [
                       "asyncio",
                       "asyncpg",
@@ -722,7 +722,7 @@
                     "open_issues": 51,
                     "owner": "piccolo-orm",
                     "repo": "piccolo",
-                    "stars": 1948,
+                    "stars": 1949,
                     "topics": [
                       "asgi",
                       "asyncio",
@@ -1603,8 +1603,8 @@
                 "id": 162690887,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T19:01:42Z",
-                "open_issues": 313,
+                "last_commit": "2026-10-02T22:44:05Z",
+                "open_issues": 312,
                 "owner": "strawberry-graphql",
                 "repo": "strawberry",
                 "stars": 4722,
@@ -1800,7 +1800,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T17:53:14Z",
-                "open_issues": 700,
+                "open_issues": 701,
                 "owner": "open-telemetry",
                 "repo": "opentelemetry-python-contrib",
                 "stars": 1105,
@@ -2193,8 +2193,8 @@
                 "id": 661287015,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T18:39:17Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-03T01:50:43Z",
+                "open_issues": 2,
                 "owner": "apitally",
                 "repo": "apitally-py",
                 "stars": 224,
@@ -2618,7 +2618,7 @@
                 "open_issues": 84,
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 102768,
+                "stars": 102772,
                 "topics": [
                   "api",
                   "async",
@@ -2667,7 +2667,7 @@
                 "open_issues": 16,
                 "owner": "zhanymkanov",
                 "repo": "fastapi-best-practices",
-                "stars": 18138,
+                "stars": 18140,
                 "topics": [
                   "best-practices",
                   "fastapi"
@@ -2788,7 +2788,7 @@
             {
               "node_type": "item",
               "title": "Chalice",
-              "description": null,
+              "description": "aws/chalice",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2948,7 +2948,7 @@
                 "open_issues": 24,
                 "owner": "fastapi",
                 "repo": "full-stack-fastapi-template",
-                "stars": 45840,
+                "stars": 45842,
                 "topics": [
                   "docker",
                   "docker-compose",
@@ -3732,10 +3732,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T16:27:42Z",
-                "open_issues": 107,
+                "open_issues": 108,
                 "owner": "polarsource",
                 "repo": "polar",
-                "stars": 10303,
+                "stars": 10305,
                 "topics": [
                   "digital-products",
                   "fastapi",
@@ -3779,7 +3779,7 @@
             {
               "node_type": "item",
               "title": "RealWorld Example App - postgres",
-              "description": null,
+              "description": "nsidnev/fastapi-realworld-example-app",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3849,7 +3849,7 @@
                 "id": 268461132,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-19T02:48:03Z",
+                "last_commit": "2026-10-03T00:48:27Z",
                 "open_issues": 17,
                 "owner": "Kludex",
                 "repo": "awesome-fastapi-projects",
@@ -3902,7 +3902,7 @@
                 "id": 173628650,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T16:52:18Z",
+                "last_commit": "2026-10-02T20:24:57Z",
                 "open_issues": 57,
                 "owner": "bitcart",
                 "repo": "bitcart",
@@ -3964,7 +3964,7 @@
             {
               "node_type": "item",
               "title": "RealWorld Example App - mongo",
-              "description": null,
+              "description": "markqiu/fastapi-mongodb-realworld-example-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4498,7 +4498,7 @@
                 {
                   "node_type": "item",
                   "title": "Async flavor",
-                  "description": null,
+                  "description": "testdrivenio/fastapi-crud-async",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4524,7 +4524,7 @@
                 {
                   "node_type": "item",
                   "title": "Sync Flavor",
-                  "description": null,
+                  "description": "testdrivenio/fastapi-crud-sync",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:24:35.798Z",
+    "last_updated": "2026-10-03T04:43:24.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to FastAPI",
@@ -4567,10 +4567,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-24T17:18:28Z",
-      "open_issues": 13,
+      "open_issues": 14,
       "owner": "mjhea0",
       "repo": "awesome-fastapi",
-      "stars": 11699,
+      "stars": 11702,
       "topics": [
         "awesome",
         "awesome-list",
